@@ -1,0 +1,41 @@
+X,Y,ID,NOM,LONG(x),LAT(y),LABEL,ANNEE,LIEU,STATUT,PRODUITS,icon_url
+-33.2354221286135,-85.5266089949275,"1",Floralys,55.334620999999999,-21.264541999999999,La Clef verte,,Etant-Salé,,Hôtel,./0.png
+-33.2353999571797,-85.5266080050248,"2",L'Alamanda,55.222971000000001,-21.071341000000000,La Clef verte,,Saint-Gilles les Bains,,Hôtel,./0.png
+-33.2354159943731,-85.5266087047559,"3",Les Lataniers,55.301906000000002,-21.211096000000001,La Clef verte,,Piton Saint-Leu,,Gîte,./0.png
+-33.2354005147179,-85.5266080025417,"4",Ermitage Boutik Hotel,55.222712999999999,-21.076212000000002,La Clef verte,,Saint-Gilles les Bains,,Hôtel,./0.png
+-33.2354328623571,-85.5266106233017,"5",Le Victoria,55.517356999999997,-21.357544999999998,La Clef verte,,Grands Bois,,Hôtel,./0.png
+-33.2354077843493,-85.5266086592715,"6",Villa Mascarine,55.296517000000001,-21.139406000000001,La Clef verte,,Saint-Leu,,Gîte,./0.png
+-33.2353974791589,-85.5266121710576,"7",Plantation Mélissa,55.689405000000001,-21.047774000000000,Bienvenue à la ferme,,Saint-Benoit,,Produits fermiers,./0.png
+-33.2354162431547,-85.5266092897757,"8",L'Ecorce Blanc,55.367426999999999,-21.212999000000000,Bienvenue à la ferme,,Les Avirons,,Ferme Auberge,./0.png
+-33.2354208748817,-85.5266091188587,"9",Ferme Equestre du pont neuf,55.348453999999997,-21.253533999999998,Bienvenue à la ferme,,Les Avirons,,Ferme Auberge Equestre,./0.png
+-33.2354205512362,-85.5266094809118,"10",Ferme auberge cœur des isles,55.388986000000003,-21.250540000000001,Bienvenue à la ferme,,Etant-Salé,,Ferme Auberge - produits terroir,./0.png
+-33.2354159522157,-85.5266096706338,"11",La Fenêtre,55.410066000000000,-21.210281999999999,Bienvenue à la ferme,,La Rivière,,Ferme Auberge - spécialités locales,./0.png
+-33.2353952861809,-85.5266102583135,"12",La Tourte Dorée,55.475132000000002,-21.029502000000001,Bienvenue à la ferme,,Salazie,,Ferme Auberge - produits terroir,./0.png
+-33.2354152465396,-85.5266097036246,"13",Le Chant du Coq,55.413735000000003,-21.204103000000000,Bienvenue à la ferme,,La Rivière,,Ferme Auberge - produits terroir,./0.png
+-33.2354239365848,-85.5266104722634,"14",Sainte Hélène,55.500121999999998,-21.279651999999999,Bienvenue à la ferme,,Ravine des Cabris,,Ferme - Location de salle,./0.png
+-33.2353910768967,-85.5266121170264,"15",Ferme auberge Annibal Eva,55.683123999999999,-20.991878000000000,Bienvenue à la ferme,,Bras Panon,,Ferme Auberge - produits terroir,./0.png
+-33.2354259069964,-85.5266116220675,"16",Le Labyrinthe en champ Thé,55.628951000000001,-21.296332000000000,Bienvenue à la ferme,,Saint-Joseph,,Ferme découverte - exploitation agricole,./0.png
+-33.2354304601896,-85.5266119170248,"17",La Crête,55.662145000000002,-21.335965999999999,Bienvenue à la ferme,,Saint-Joseph,,Ferme Auberge - produits terroir,./0.png
+-33.2354333187077,-85.5266122634634,"18",Ferme auberge Desprairies,55.701042999999999,-21.360773999999999,Bienvenue à la ferme,,Saint-Joseph,,Ferme Auberge - produits terroir,./0.png
+-33.2354346437627,-85.5266124232855,"19",Le Rond de basse vallée,55.718988000000003,-21.372274000000001,Bienvenue à la ferme,,Basse Vallee,,Ferme Auberge - produits terroir,./0.png
+-33.2354070832964,-85.5266131892629,"20",La Cayenne,55.803772000000002,-21.131191999999999,Bienvenue à la ferme,,Sainte-Rose,,Ferme Auberge - produits terroir,./0.png
+-33.2354078695581,-85.5266085276612,"21",Domaine de la pointe des châteaux,55.281782000000000,-21.140211000000001,Bienvenue à la ferme,,Saint-Leu,,Ferme découverte - exploitation agricole,./0.png
+-33.2354206603807,-85.5266105216455,"22",Fleur de K'Fé,55.505533999999997,-21.251013000000000,Bienvenue à la ferme,,Le Tampon,,Ferme découverte - exploitation agricole (café bourbon pointu),./0.png
+-33.2353848356895,-85.5266118739051,"23",La Case Floria,55.655673999999998,-20.937476000000000,Fleurs de soleil,,Saint-André,,Jardin créole - maison d'hôtes,./0.png
+-33.2354361456208,-85.5266117691297,"24",Le Tillandsia,55.645788000000003,-21.385694000000001,Fleurs de soleil,,Saint-Joseph,,Jardin créole - maison d'hôtes,./0.png
+-33.2353834725146,-85.5266106826046,"25",Domaine Moka,55.522219999999997,-20.926119000000000,Maitres restaurateurs,,Sainte-Marie,,Gastronomie - produits terroirs,./0.png
+-33.2353977767263,-85.5266080303367,"26",La Réserve,55.225726999999999,-21.052284000000000,Maitres restaurateurs,,Saint-Gilles les Bains,,Gastronomie - produits terroirs,./0.png
+-33.2354024431882,-85.5266080964811,"27",Copacabana Plage,55.233302000000002,-21.093012999999999,Maitres restaurateurs,,Saint-Gilles les Bains,,Gastronomie - produits terroirs,./0.png
+-33.2354036213983,-85.526608215996,"28",Le Choka Bleu,55.246727999999997,-21.103249000000002,Maitres restaurateurs,,Saline Les Bains,,Gastronomie - produits terroirs,./0.png
+-33.235423401297,-85.5266092231611,"29",Le Green Tee,55.360225000000000,-21.275552999999999,Maitres restaurateurs,,Etant-Salé,,Gastronomie - produits terroirs,./0.png
+-33.2354349132092,-85.5266112847453,"30",Chez jo,55.591501000000001,-21.375153000000001,Maitres restaurateurs,,Saint-Joseph,,Gastronomie - produits terroirs,./0.png
+-33.2353995132117,-85.5266106445954,"31",Le Relais des Cimes**,55.518540999999999,-21.066244999999999,Tables & Auberges de France,,Salazie,,Hôtel** - Restaurant,./0.png
+-33.2354087836845,-85.5266084897365,"32",Iloha Seaview Hotel***,55.277568000000002,-21.148212999999998,Tables & Auberges de France,,Saint-Leu,,Hôtel*** - Restaurant,./0.png
+-33.2353784366315,-85.5266100384711,"33",Villa Angélique****,55.449907000000003,-20.882429999999999,Tables & Auberges de France,,Saint-Denis,,Hôtel**** - Restaurant,./0.png
+-33.2354017779417,-85.5266081384336,"34",Hôtel Dina Morgabine***,55.237976000000003,-21.087183000000000,Tables & Auberges de France,,La Saline les Bains,,Hôtel*** - Restaurant,./0.png
+-33.2354061184952,-85.5266123092846,"35",Diana Dea Lodge****,55.705195000000003,-21.123170999999999,Tables & Auberges de France,,Sainte-Anne,,Hôtel**** - Restaurant,./0.png
+-33.2354309579868,-85.5266101296586,"36",Le Battant des Lames***,55.462009000000002,-21.341138999999998,Tables & Auberges de France,,Saint-Pierre,,Hôtel*** - Restaurant,./0.png
+-33.2353948961246,-85.5266080394246,"37",Hôtel Boucan Canot - Le Cap****,55.226641000000001,-21.027118999999999,Tables & Auberges de France,,Saint-Gilles les Bains,,Hôtel**** - Restaurant,./0.png
+-33.2354072518304,-85.5266102533599,"38",Hôtel des Neiges***,55.475008000000003,-21.134018999999999,Tables & Auberges de France,,Cilaos,,Hôtel*** - Restaurant,./0.png
+-33.2354066426611,-85.5266130467842,"39",Hôtel Restaurant La Fournaise,55.787801000000002,-21.127409000000000,Tables & Auberges de France,,Sainte-Rose,,Hôtel - Restaurant,./0.png
+-33.2354218755696,-85.5266105782905,"40",L'Amberic,55.511921000000001,-21.261600999999999,Tables & Auberges de France,,Le Tampon,,Restaurant - Cuisine locale,./0.png

@@ -1,0 +1,358 @@
+X,Y,fid,id1,Desc_simp,Commune,EPCI,id2_name, id1_name,Propriétr,Num_intern,Nb_tables,Nb_bancs,Nb_kiosque,Nb_CoinFeu,Nb_ptd'eau,Accès_PMR,Parking,Nb_poubell,Aire_jeux,id2,SourceDonn,Equipement,icon_url
+-33.2354056004993,-85.5266110922955,,PN4,1 spot,Saint-Benoît,CIREST,Bras Chansons,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2","1","0","0","0","0",Non,Oui,"0",Non,PN27S3,Carte IGN papier,1.000,./0.png
+0,0,,,,Saint-Benoît,CIREST,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354047117454,-85.5266110932461,,PN4,pas de données,Saint-Benoît,CIREST,,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2",,,,,,,,,,PN27S1,Carte IGN papier,,./0.png
+0,0,,,,Saint-Benoît,CIREST,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353958562129,-85.5266124175221,,,Aire de jeux près de la rivière des Marsouins,Saint-Benoît,CIREST,,,COMMUNE,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353965124435,-85.5266124647826,,,Aire de jeux près de la piscine du Butor,Saint-Benoît,CIREST,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.235383000173,-85.5266090782871,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353822485766,-85.5266095357071,,,,Saint-Denis,CINOR,Domaine Fleurié,La Montagne,ETAT,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353904768643,-85.5266085437157,3,PN3,2 spots,Saint-Paul,TCO,Etang Saint-Paul,"Etang Saint-Paul, Ravine Bernica",DEPARTEMENT,"3","14","0","0","15","0",Non,Oui,"15",Non,PN3S1,CDLR,14.000,./0.png
+-33.2353904612705,-85.5266099917074,,,,Saint-Denis,CINOR,Roche Ecrite,Gîte de la Roche Ecrite,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353839057112,-85.5266107544144,,,,Sainte-Marie,CINOR,NR,La Confiance les Bas,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353897135873,-85.5266112325265,,,,Sainte-Suzanne,CINOR,NR,Rue des Madriers,COMMUNE,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353818009181,-85.5266114899673,,,,,,,,COMMUNE,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353814081631,-85.5266115041246,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353885677936,-85.5266122501053,1,,,Saint-André,CIREST,Rivière du Mât les Bas,"Rivière du Mât les Bas, front de mer",COMMUNE,"1",,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353896811181,-85.5266121194766,1,,,Saint-André,CIREST,Parc de la Rivière,Rivière du Mât,,"1",,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353907703729,-85.526611404755,1,,,Saint-André,CIREST,Forêt de Dioré,Forêt de Dioré,DEPARTEMENT,"1",,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354309232744,-85.5266119431157,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354275340489,-85.5266116598336,1,,,Saint-Joseph,CASUD,Belvédère du Petit Serré,Route du Grand Coude D33,,"1",,,,,,,,,,,Carte IGN papier,,./0.png
+-33.235427379249,-85.5266114284672,,,,,,,,ETAT,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354281900729,-85.5266112264456,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354296631468,-85.5266112227947,,,,,,,,COMMUNE,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354299233895,-85.5266111369229,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354303028535,-85.5266111230325,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354334959523,-85.5266107783239,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354333602203,-85.5266107150856,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354292758216,-85.5266102527721,,,,,,,,SEM,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354244186028,-85.5266100692537,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354194505733,-85.5266094589485,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354172212689,-85.526609669899,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354050879441,-85.5266088810535,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.235413359289,-85.5266100440804,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354122662101,-85.5266103008695,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354116229025,-85.5266102682438,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354087799869,-85.5266103340283,,,,,,,,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354064274039,-85.5266103962131,,,,,,,,DEPARTEMENT,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2353780152844,-85.5266098941917,,,,Saint-Denis,CINOR,Cap Bernard,La Montagne,,,,,,,,,,,,,Carte IGN papier,,./0.png
+-33.2354031120326,-85.5266083726823,1,,,Saint-Paul,TCO,Aire du Tabac,Route des Tamarins,ETAT,"1",,,,,,,,,,,,,./0.png
+-33.2354143912573,-85.5266091917959,,,,Les Avirons,CIVIS,NR,Route forestière du Tévelave RF6,,,,,,,,,,,,PN92S3,,,./0.png
+-33.2354142178569,-85.5266092228297,,,,Les Avirons,CIVIS,NR,Route forestière du Tévelave RF6,ETAT,,,,,,,,,,,PN92S2,,,./0.png
+-33.2353864252714,-85.5266099175031,,PN9,7 spots,Saint-Denis,CINOR,Aire d'accueil de Mamode Camp,"Forêt du Grand Bûlé, Chemin de la Roche Ecrite RF1",ONF (DD),"3","42","1","8","22","7","1",Oui,"7",Non,PN4S2,CDLR,50.000,./0.png
+-33.2353994568973,-85.5266107009749,,,,Salazie,CIREST,Hell Bourg,"Route Auguste, Hell Bourg",DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2353988627295,-85.526610803046,,PN4,1 spot,Salazie,CIREST,Gîte de Bélouve,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"3","6","0","1","2","2",Non,Non,"4",Non,PN27S4,CDLR,7.000,./0.png
+-33.2354006917867,-85.5266097902669,,,,,,,,ETAT,,,,,,,,,,,,,,./0.png
+-33.2353834943169,-85.5266086562731,1,PN2,1 spot,Le Port,TCO,Front de mer du Port,Front de mer du Port,COMMUNE,"1","0","999","0","15","999",Oui,Oui,"999",Non,,Ouvrage BU,0.000,./0.png
+-33.2353838043489,-85.5266087589751,,,,,,,,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354053284641,-85.5266100413068,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354003779883,-85.5266097720846,,,,,,,,ETAT,,,,,,,,,,,,,,./0.png
+-33.2354167232909,-85.5266110287612,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2354136212771,-85.5266099151906,,PN19,pas de données,Saint-Louis,CIVIS,Piton Cabris,Route forestière des Makes RF11,DEPARTEMENT,"2",,,,,,,,,,PN19S8,,,./0.png
+-33.2354132322299,-85.5266134031431,5,PN1,1 spot,Sainte-Rose,CIREST,Parc de l'Anse des Cascades,Anse des Cascade,ETAT,"5","19","5","8","13","1",Non,Oui,"2",Non,PN1S1,CDLR,27.000,./0.png
+-33.2354063437986,-85.526610292665,1,,,Cilaos,CIVIS,La Roche Merveilleuse,Route forestière de la roche Merveilleuse,,"1",,,,,,,,,,,,,./0.png
+-33.2354224295771,-85.5266091808407,,PN20,1 spot,Etang-Salé,CIVIS,Jardin d'Oiseaux,"Forêt Dépatementalo-Domaniale de l'Etang-Salé, L'Etang-Salé-Les-Bains",ETAT,"3","0","5","2","0","2",Non,Non,"1",Non,PN20S3,CDLR,2.000,./0.png
+-33.2354226550737,-85.5266105428121,,,,,,Kiosque,,ETAT,,,,,,,,,,,,,,./0.png
+-33.2354109581326,-85.5266112696453,,,,La Plaine des Palmistes,CIREST,Col de Bellevue,Route des Plaines N3,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2353947948837,-85.5266123143863,,,,Saint-Benoît,CIREST,NR,Sentier littoral saint-benoît,,,,,,,,,,,,,,,./0.png
+-33.2354070034421,-85.5266104393526,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2353950735474,-85.5266105294811,,,,Salazie,CIREST,Mare à vieille place,Mare à vieille place,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354119277241,-85.5266093733981,,PN24,1 spot,Saint-Paul,TCO,Croisée Route du Tévélave,Route forestière des Tamarins RF 9B,ONF (DD),"2","1","0","2","3","0",Non,Non,"1",Non,PN24S1,CDLR,3.000,./0.png
+-33.2354232393435,-85.5266096635543,,,,Saint-Louis,CIVIS,Maison Rouge,Rue Leconte de Lisle D20,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.235414632404,-85.5266117804508,,PN17,Pas de données,Le Tampon,CASUD,Bois Ozoux,"Route forestière du volcan RF5, Plaine des Cafres",ETAT,,,,,,,,,,,PN17S6,,,./0.png
+-33.2354049404744,-85.5266103678054,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354059704327,-85.5266103104619,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354286063376,-85.5266103265451,,,,Saint-Pierre,CIVIS,Kiosques pôle élevage,Près du chemin de l'Irat,,,,,,,,,,,,,,,./0.png
+-33.2353799817777,-85.5266108519438,3,PN5,1 spot,Sainte-Marie,CINOR,Parc Bois Madame,"Front de mer, Rue du Double Dix",COMMUNE,"3","4","15","11","8","4",Oui,Oui,"23",Oui,PN6S1,Terrain,15.000,./0.png
+-33.235398694159,-85.5266092866655,,PN24,1 spot,Saint-Paul,TCO,Aire d'accueil de La Croisée,Route forestière des Tamarins RF9A-RF7,ONF (DD),"1","3","0","2","2","0",Non,Oui,"1",Non,PN24S27,CDLR,5.000,./0.png
+-33.2354147864256,-85.5266098281605,,PN19,1 spot,Saint-Louis,CIVIS,(Source Néné),Route forestière des Makes RF11,DEPARTEMENT,"2","2","0","1","1","0",Non,Oui,"1",Non,PN19S2,CDLR,3.000,./0.png
+-33.2354136028799,-85.5266097515887,2,PN19,Total des spots,Saint-Louis,CIVIS,Les Makes,Route forestière des Makes RF11,DEPARTEMENT,"2","32","0","2","24","1",Oui,Oui,"10",oui,PNS00,CDLR/Ouvrage BU,34.000,./0.png
+-33.235416128608,-85.5266095770474,,,1 spot,Saint-Louis,CIVIS,Parc des Platanes,"Chemin des Platanes, D20",COMMUNE,,"6","999","0","3","999",Oui,Oui,"999",Non,PN13S1,CDLR,6.000,./0.png
+-33.2354238197264,-85.5266090439343,,PN20,1 spot,Etang-Salé,CIVIS,Le Gouffre,"Forêt Dépatementalo-Domaniale de l'Etang-Salé, L'Etang-Salé-Les-Bains",ETAT,"3","6","0","0","0","0",Non,Oui,"1",Non,PN20S1,CDLR,6.000,./0.png
+-33.2353982649648,-85.5266100547826,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","2","0","2","3","0",Non,Oui,"0",Non,PN32S8,CDLR,4.000,./0.png
+-33.2353970437399,-85.5266100979764,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","1","0","0","1","0",Non,Oui,"0",Non,PN32S1,CDLR,1.000,./0.png
+-33.2354064053343,-85.5266102417159,,,,Cilaos,CIVIS,Plateau des Chênes,Plateau des Chênes,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2353788311512,-85.5266104236917,,,,Saint-Denis,CINOR,NR,La Jamaïque,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2353838278898,-85.5266105437974,,,,Saint-Denis,CINOR,Îlet Quinquina,La Rivière des Pluies,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2353809430744,-85.5266098239002,4,PN11,1 spot,Saint-Denis,CINOR,Parc de Loisirs du Colorado,La Montagne,COMMUNE,"4","33","999","4","25","999",Oui,Oui,"999",Oui,PN2S1,Ouvrage BU,37.000,./0.png
+-33.2353858262251,-85.52660962743,2,PN33,Total des spots,Saint-Denis,CINOR,Plaine d'Affouches,Route forestière d'Affouches RF20,ONF (DD),"2","10","0","3","13","0",Non,Oui,"15",Non,PN33S00,CDLR,13.000,./0.png
+-33.2353859146464,-85.5266099342223,,PN9,8 spots,Saint-Denis,CINOR,Aire d'accueil de Laverdure,"Forêt du Grand Bûlé, Chemin de la Roche Ecrite RF1",ONF (DD),"3","33","0","1","17","0",Non,Oui,"8",Non,PN4S3,CDLR,34.000,./0.png
+-33.2353822739835,-85.5266099004192,,,,Saint-Denis,CINOR,Zone de Loisirs du Brûlé,Saint-François,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2353970238889,-85.5266095070821,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2353830990905,-85.526610176605,,,,Saint-Denis,CINOR,NR,Piton Patates,COMMUNE,,,,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2354073813414,-85.5266132139487,1,,,Sainte-Rose,CIREST,La Cayenne,"La Cayenne, Grande Ravine Glissante",ETAT,"1",,,,,,,,,,,,,./0.png
+-33.2354063406033,-85.5266126980477,1,,,Sainte-Rose,CIREST,Pont Suspendu,"Pont Suspendu, rivière de l'Est",,"1",,,,,,,,,,,,,./0.png
+-33.2354106252952,-85.5266133911863,1,,,Sainte-Rose,CIREST,La Croix,"Ravine La Croix, Coulée de 1977",COMMUNE,"1",,,,,,,,,,,,,./0.png
+-33.2353996912161,-85.5266107113155,1,,,Salazie,CIREST,Hell Bourg,"Route forestière de Bé Maho, Hell Bourg",DEPARTEMENT,"1",,,,,,,,,,,,,./0.png
+-33.2354105527886,-85.5266116180663,1,,,Plaine des Pamistes,CIREST,Le Kiosque,"Route de Bé Maho, Hell Bourg",ETABLISSEMENTS PUBLICS,"1",,,,,,,,,,,,,./0.png
+-33.2354087326723,-85.5266112800427,2,PN36,Total des spots,Plaine-des-Palmistes,CIREST,Forêt de la Petite Plaine,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2","69","0","15","58","0",Oui,Oui,"18",Oui,PN36S00,CDLR,84.000,./0.png
+-33.2354067587123,-85.5266110978605,,PN4,1 spot,Saint-Benoît,CIREST,Bras Cabot,Route forestière de Bébour-Bélouve RF2,ONF (DD),"2","4","0","3","4","0",Non,Oui,"0",Non,PN27S2,CDLR,7.000,./0.png
+-33.2354123313932,-85.5266111852024,,,,Le Tampon,CASUD,Pont de Trente,Rue Katia et Maurice Krafft,ETAT,,,,,,,,,,,,,,./0.png
+-33.235415549552,-85.5266114307096,,PN17,6 spots,Le Tampon,CASUD,Forêt de Grande Ferme,"Route forestière du volcan RF5, Plaine des Cafres",ETAT,"2","17","0","1","14","0",Non,Oui,"6",Non,PN17S1,CDLR,18.000,./0.png
+-33.2354186160038,-85.526610936709,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2354163534352,-85.5266114806868,,PN17,5 spots,Le Tampon,CASUD,Belvédère du Nez de Boeuf,"Route forestière du volcan RF5, Plaine des Cafres",ETAT,"2","13","0","2","7","0",Non,Oui,"5",Non,PN17S3,CDLR,15.000,./0.png
+-33.2354327215525,-85.5266126092733,,PN28,1 spot,Saint-Philippe,CASUD,Forêt de Mare Longue,Mare Longue,DEPARTEMENT,"2","1","0","1","1","0",Non,Oui,"1",Non,PN28S1,CDLR,2.000,./0.png
+-33.2354317686891,-85.5266126287574,,PN28,pas de données,Saint-Philippe,CASUD,Forêt de Mare Longue,Mare Longue,DEPARTEMENT,"2",,,,,,,,,,PN28S3,,,./0.png
+-33.2354349353273,-85.5266123438293,2,PN30,1 spot,Saint-Philippe,CASUD,Cap Méchant,Basse Vallée,COMMUNE,"2","5","999","8","13","999",Oui,Oui,"999",Non,PN30S1,Ouvrage BU,13.000,./0.png
+-33.2354350133538,-85.526611799351,,PN29,1 spot,Saint-Joseph,CASUD,Rivière Langevin,Langevin,ONF (DD),"2",,,,,,,,,,PN29S1,,,./0.png
+-33.2354352652138,-85.5266120469558,,,,Saint-Joseph,CASUD,NR,Chemin du Port,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354328391515,-85.5266106096714,,,,,,,,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354340966032,-85.526610896284,1,,,Petite-Ile,CIVIS,Aire de pique-nique de Grande Anse,"Grande Anse, Front de mer",COMMUNE,"1",,,,,,,,,,,,,./0.png
+-33.235429325197,-85.5266112372269,,,,,,Domaine du Relais,,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354307640526,-85.5266100990466,2,PN18,1 spot,Saint-Pierre,CIVIS,Front de Mer de Saint-Pierre,"Front de mer, Centre-ville",COMMUNE,"2",,,,,,,,,,PN18S1,,,./0.png
+-33.235423653708,-85.5266101762833,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354247653265,-85.5266100618851,,,,,,Saint-Étienne,,,,,,,,,,,,,,,,./0.png
+-33.2354174894069,-85.5266096970518,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2354169333559,-85.5266102578873,,,,,,Le Bras Long,,,,,,,,,,,,,,,,./0.png
+-33.2354216870412,-85.5266097556436,2,PN6,1 spot,Saint-Louis,CIVIS,Parc du Gol,Ravine du Gol,COMMUNE,"2","4","999","0","0","0",Oui,Oui,"999",Non,PN6S1,Ouvrage BU,4.000,./0.png
+-33.2354253531754,-85.5266095129949,,,,Saint-Louis,CIVIS,Etang du Gol,Front de mer de Saint-Louis,COMMUNE,,"15","999","0","0","0",Oui,Oui,"999",Non,,Ouvrage BU,15.000,./0.png
+-33.2354156521998,-85.5266096385466,,,,Saint-Louis,CIVIS,La Pépinière,"Rue du Montplaisir, les Makes",ETAT,,,,,,,,,,,,,,./0.png
+-33.2354216801354,-85.5266090597943,,PN20,1 spot,Etang-Salé,CIVIS,Petit Bon Dieu,"Forêt Dépatementalo-Domaniale de l'Etang-Salé, L'Etang-Salé-Les-Bains",DEPARTEMENT,"3","4","0","2","5","0",Non,Oui,"1",Non,PN20S4,CDLR,6.000,./0.png
+-33.2354152539126,-85.5266085916487,,,,Saint-Leu,CIVIS,Savane de la Pointe au Sel,"Piton des Roches Tendres, Pointe au Sel",REGION,,,,,,,,,,,,,,./0.png
+-33.2354150566242,-85.5266086288553,1,,,Saint-Leu,CIVIS,Aire de Stella,Près du Musée Stella Matutina et de la route des Tamarins,ETAT,"1",,,,,,,,,,,,,./0.png
+-33.2354123545932,-85.5266085736742,2,PN22,"1 spot, Espace de Loisirs du Four à Chaux",Saint-Leu,CIVIS,Plages de Saint-Leu,"Plage de Saint-Leu, Le Cap Sain-Leu",ETAT,"2","14","999","2","11","999",Oui,Oui,"999",Oui,PN22S1,Ouvrage BU,16.000,./0.png
+-33.2354105723504,-85.5266085926982,,,,,CIVIS,Batterie des Sans Culottes,,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354046214772,-85.5266092405523,,PN24,3 spots,Saint-Paul,TCO,(Petit Bras de la Grande Ravine),Route forestière des Tamarins RF9A,ONF (DD),"2","4","0","0","4","0",Non,Non,"3",Non,PN24S17,CDLR,4.000,./0.png
+-33.2354012898678,-85.5266092261773,,PN24,1 spot,Saint-Paul,TCO,Maison Laclos,Route forestière des Tamarins RF9A-RF7,ONF (DD),"2","1","0","1","1","0",Non,Oui,"1",Non,PN24S23,CDLR,2.000,./0.png
+-33.2354154167988,-85.5266091847741,,,,Les Avirons,CIVIS,Le Tévelave,Route forestière du Tévelave RF6,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354056036715,-85.5266090426087,,PN24,2 spots,Saint-Paul,TCO,NR,Route des Cryptomérias,ONF (DD),"2","4","0","1","6","0",Non,Non,"2",Non,PN24S12,CDLR,5.000,./0.png
+-33.2354051659494,-85.5266091724107,,PN24,2 spots,Saint-Paul,TCO,(Namek DH),Route forestière de Timour RF7,ONF (DD),"2","1","0","1","3","0",Non,Non,"2",Non,PN24S8,CDLR,2.000,./0.png
+-33.2353989157577,-85.5266093637009,,PN24,1 spot,Saint-Paul,TCO,La Messe,Route forestière du Maïdo RF8,ONF (DD),"2","10","1","4","9","0",Non,Oui,"1",Non,PN24S32,CLDR,14.000,./0.png
+-33.2354002191886,-85.5266093949717,,PN24,3 spots,Saint-Paul,TCO,Aire d'accueil de la tour de Guet,Route forestière du Maïdo RF8,ONF (DD),"2","5","0","1","5","0",Non,Oui,"3",Non,PN24S39,CDLR,6.000,./0.png
+-33.2353985996822,-85.5266093386397,,PN24,1 spot,Saint-Paul,TCO,Route forestière 1800m nord,Route forestière du Maïdo RF8,ONF (DD),"2","3","0","1","3","0",Non,Oui,"1",Non,PN24S30,CDLR,4.000,./0.png
+-33.2354123964865,-85.5266092144281,,,,,,,,ETAT,,,,,,,,,,,,,,./0.png
+-33.2354208243765,-85.5266090368684,,PN20,1 spot,Etang-Salé,CIVIS,Tamarin Velour,"Forêt Dépatementalo-Domaniale de l'Etang-Salé, L'Etang-Salé-Les-Bains",DEPARTEMENT,"3","2","0","1","3","0",Non,Oui,"1",Non,PN20S5,CDLR,3.000,./0.png
+-33.235418770816,-85.5266101105694,,,,Entre-Deux,CASUD,Plateau Raisin,Sentier de Bayonne,,,,,,,,,,,,,,,./0.png
+-33.2353887514378,-85.5266107011967,1,,,Sainte-Marie,CINOR,Piton Fougère,"Route des Fleurs, près de La Maison Martin",COMMUNE,"1",,,,,,,,,,,,,./0.png
+-33.2354277294989,-85.5266108896519,,,,Saint-Pierre,CIVIS,Aire de jeux du Domaine de Vidot,"Chemin Ciriaque Cadet, Mont Vert les Hauts",COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354075805663,-85.5266103451516,,,,Cilaos,CIVIS,Puy Maillot,"Chemin de la Vigne, Bras Sec",,,,,,,,,,,,,,,./0.png
+-33.2354009275153,-85.5266121254967,1,,,Saint-Benoît,CIREST,Forêt de Ravenales,Chemin du Grand Etang,DEPARTEMENT,"1",,,,,,,,,,,,,./0.png
+-33.2354223086697,-85.5266113688723,,PN54,Total des spots,Le Tampon,CASUD,Forêt de Notre Dame de la Paix,D53,DEPARTEMENT,,,,,,,,,,,PN54S00,,,./0.png
+-33.2353898487243,-85.5266095113432,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2354007563492,-85.5266116586158,,,,Saint-Benoît,CIREST,NR,Chemin Grand Fond D53,ETABLISSEMENTS PUBLICS,,,,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.235397756935,-85.5266107067677,1,,,Salazie,CIREST,Mare à Poule d'Eau,"Mare à Poule d'Eau, Hell Boug",COMMUNE,"1",,,,,,,,,,,,,./0.png
+-33.2354342875029,-85.5266117980675,2,PN29,Total des spots,Saint-Joseph,CASUD,Rivière Langevin,Langevin,ONF (DD),"2","7","999","5","7","0",Oui,Oui,"999",Non,PN29S00,Ouvrage BU,12.000,./0.png
+-33.2354131301304,-85.5266096773838,,PN19,pas de données,Saint-Louis,CIVIS,NR,Route forestière des Makes RF11,DEPARTEMENT,"2",,,,,,,,,,PN19S10,,,./0.png
+-33.2354132471032,-85.5266098392553,,PN19,4 spots,Saint-Louis,CIVIS,Aire d'accueil de la forêt des Makes,Route forestière des Makes RF11,DEPARTEMENT,"2","14","0","0","16","1",Oui,Oui,"4",Oui,PN19S6,CDLR,14.000,./0.png
+-33.2354152396726,-85.5266091710807,,,,Les Avirons,CIVIS,,Route forestière du Tévelave RF6,COMMUNE,,,,,,,,,,,PN92S1,,,./0.png
+0,0,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2353999044268,-85.5266083970705,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2354067896375,-85.5266099988565,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354067739779,-85.5266099993366,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2353958558451,-85.5266104259645,,,,Salazie,CIREST,Aire de pique-nique,"Rue du Père Louis Marcel D52, Roche Plate",,,,,,,,,,,,,,,./0.png
+-33.2354067441106,-85.5266101868146,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354065112578,-85.5266103153772,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354138846704,-85.5266092329285,,,,Les Avirons,CIVIS,NR,Route forestière du Tévelave RF6,,,,,,,,,,,,PN92S1,,,./0.png
+-33.2354057773801,-85.5266102321716,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354058963712,-85.5266102322494,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354059338559,-85.5266102342252,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354031726034,-85.5266112159607,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354081128465,-85.526610541544,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354130975179,-85.5266098646895,,PN19,1 spot,Saint-Louis,CIVIS,La Fenêtre des Makes,Route forestière des Makes RF11,DEPARTEMENT,"2","8","0","0","2","0",Non,Oui,"0",Non,PN19S7,Ouvrage BU,8.000,./0.png
+-33.2354149336642,-85.5266114345842,,PN17,4 spots,Le Tampon,CASUD,Aire d'accueil de Piton Sec,"Route Forestière du volcan RF5, Plaine des Cafres",ETAT,"2","29","40","8","33","0",Non,Oui,"5",Non,PN17S2,CDLR,37.000,./0.png
+-33.2354111702805,-85.5266103390469,,,,Cilaos,,,Chemin de l'Ilet à Calebasse,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2353949407206,-85.5266098397765,,,,,,,,ETAT,,,,,,,,,,,,,,./0.png
+-33.2353836023995,-85.5266119301462,2,PN10,1 spot,Saint-André,CIREST,Parc de Loisirs du Colosse,"Front de mer, près du Petit Etang",COMMUNE,"2","0","999","9","0","999",Oui,Oui,"999",Oui,PN10S1,Ouvrage BU,9.000,./0.png
+-33.2354137884077,-85.5266107979589,3,PN15,1 spot,Le Tampon,CASUD,Belvédère de Bois Court,"Bois Court, Plaine des Cafres",COMMUNE,"3","6","0","0","0","0",Non,Oui,"1",Non,PN51S1,INCONNU,6.000,./0.png
+-33.2353950486726,-85.5266116156161,1,PN13,1 spot,Bras-Panon,CIREST,L'Éden,Bras sec,DEPARTEMENT,"1","5","999","6","6","0",Oui,Non,"0",Oui,PN13S00,Ouvrage BU,11.000,./0.png
+-33.2354152658995,-85.526611148096,,,,Le Tampon,CASUD,Le Bois du Bourg Murat,Bourg-Murat,ETAT,,,,,,,,,,,,,,./0.png
+-33.2354147343258,-85.5266111915103,,,,,,,,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354116845899,-85.5266112412286,,,,,,,,,,,,,,,,,,,,,,./0.png
+-33.2354346498291,-85.526611256125,1,,,Saint-Joseph,CASUD,Aire de pique nique de Manapany les Bains,Manapany-les-Bains,COMMUNE,"1",,,,,,,,,,,,,./0.png
+-33.2353993191871,-85.5266106639478,,,,,,,,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354329470671,-85.5266106459506,,,,Saint-Pierre,CIVIS,La Source,Cap La Source,,,,,,,,,,,,,,,./0.png
+-33.2354071434093,-85.5266115622077,1,,,Plaine des Palmistes,CIREST,Bassin Cadet,Ravine Sèche,COMMUNE,"1",,,,,,,,,,,,,./0.png
+-33.2353988775691,-85.5266100425,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","0","0","2","2","0",Non,Oui,"0",Non,PN32S10,CDLR,2.000,./0.png
+-33.2353931988061,-85.526612273571,,,,Saint-Benoît,CIREST,NR,"Front de mer, près de la Rivière des Roches",ETABLISSEMENTS PUBLICS,,,,,,,,,,,,,,./0.png
+-33.2353926918897,-85.5266122474802,,,,Saint-Benoît,CIREST,Berges de la Rivière des Roches,Rivière des Roches,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2353897145735,-85.5266117217823,,,,Bras-Panon,CIREST,Parc des berges de la Rivière du Mât,Rivière du Mat,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2353815433532,-85.526611470271,3,PN7,1 spot,Saint-Suzanne,CINOR,Parc du Bocage,Bocage,COMMUNE,"3","0","0","13","0","999",Oui,Oui,"999",Oui,PN8S1,Ouvrage BU,13.000,./0.png
+-33.2354015129301,-85.5266126942769,3,PN14,1 spot,Saint-Benoît,CIREST,Bassin Bleu,Rivière du Petit Saint-Pierre,COMMUNE,"3","5","999","11","12","999",Oui,Oui,"999",Non,PN14S1,Ouvrage BU,16.000,./0.png
+-33.2354044815851,-85.5266121564406,1,,,Saint-Benoît,CIREST,Forêt Sainte-Marguerite,Chemin Lamandière,DEPARTEMENT,"1",,,,,,,,,,,,,./0.png
+-33.2354030426737,-85.5266118494929,,,,Saint-Benoît,CIREST,Le Grand Étang,Chemin du Grand Etang,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354134679533,-85.526610313192,,,,Entre-Deux,CIVIS,Le Dimitile,Le Dimitile,COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2353985556953,-85.526608331665,,,,,,,,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2354025204389,-85.5266081120886,,PN25,pas de données,Saint-Paul,TCO,Plage de la Saline Les Bains,"La Saline les Bains, Route du Trou d'Eau",COMMUNE,"3",,,,,,,,,,PN66S1,,,./0.png
+-33.2353838938964,-85.5266090884966,,,,,,Trou d'Eau,,REGION,,,,,,,,,,,,,,./0.png
+-33.2354309864918,-85.5266131820473,,,,Saint-Philippe,CASUD,Site du Puits Arabe,Route forestière du Puits Arabe RF34,DEPARTEMENT,,,,,,,,,,,,,,./0.png
+-33.2353965661101,-85.5266121114049,1,,,Saint-Benoît,CIREST,Ilet Bethléem,Rivière des Marsouins,,"1",,,,,,,,,,,,,./0.png
+-33.2353846333456,-85.5266102034485,2,PN34,1 spot,Saint-Denis,CINOR,Pic Adam,Pic Adam,NR,"2","8","999","5","10","999",Non,Oui,"999",Non,PN4S1,Ouvrage BU,13.000,./0.png
+-33.2353822227318,-85.5266102815425,,,,Saint-Denis,CINOR,NR,"Chemin du Bois de Senteur, Bois de Nèfles",COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2353827833264,-85.5266114126318,2,PN12,PAS D'AIRE DE PIQUE mais mentionnée comme telle,Sainte-Suzanne,CINOR,Cascade Niagara,Cascade Niagara,NR,"2","0","0","0","0","0",Non,Non,"999",Non,PN12S1,Ouvrage BU,0.000,./0.png
+-33.2353807060761,-85.5266113998219,,PN37,1 spot,Saint-Suzanne,CINOR,Phare de Bel-Air,Phare de Bel-Air,COMMUNE,,"0","0","2","3","1",Non,Oui,"3",Non,PN37S1,Terrain,2.000,./0.png
+-33.2353811391125,-85.5266114602664,,,,Saint-Suzanne,CINOR,NR,Front de mer de Sainte-Suzanne,,,,,,,,,,,,,,,./0.png
+-33.2353921247975,-85.5266122670969,,,,Bras-Panon,CIREST,NR,"Front de mer, près de la rivière des Roches",COMMUNE,,,,,,,,,,,,,,./0.png
+-33.2354069426529,-85.5266111495331,,PN4,pas de données,Saint-Benoît,CIREST,Col de Bébour,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2",,,,,,,,,,PN27S0,,,./0.png
+-33.2354007391843,-85.5266116544062,3,PN21,1 spot,Saint-Benoît,CIREST,Aire de Takamaka,Takamaka,DEPARTEMENT,"3","6","6","20","14","0",Oui,Oui,"9",Oui,PN21S1,Terrain,26.000,./0.png
+-33.235394575116,-85.5266119925248,1,,PAS D'AIRE DE PIQUE-NIQUE PRECISEE mais mentionné comme tel,Bras-Panon,CIREST,Bassin la Paix,Rivière des Roches,,"1",,,,,,,,,,,,,./0.png
+-33.2353958368333,-85.526611936347,1,,PAS D'AIRE DE PIQUE-NIQUE PRECISEE mais mentionné comme tel,Bras-Panon,CIREST,Bassin la Mer,Rivière des Roches,,"1",,,,,,,,,,,,,./0.png
+-33.2354097761453,-85.5266117295368,1,,,Plaine des Palmistes,CIREST,Bras Piton,"Bras Piton, vers Piton Cabris et Piton de l'Eau",DEPARTEMENT,"1",,,,,,,,,,,,,./0.png
+-33.235392026808,-85.5266112332914,1,,,Salazie,CIREST,Rivière du Mat,"Rivière du Mat, D48",,"1",,,,,,,,,,,,,./0.png
+-33.2353941123254,-85.5266105579996,3,PN8,1 spot,Salazie,CIREST,Rivière Fleurs Jaunes,Rivière Fleurs Jaunes,NR,"3","3","0","2","3","0",Non,Oui,"2",Non,PN9S1,CDLR,5.000,./0.png
+-33.2353973993722,-85.5266100938858,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","1","0","1","1","0",Non,Oui,"0",Non,PN32S2,CDLR,2.000,./0.png
+-33.2353935758055,-85.526610371149,2,PN31,PAS D'AIRE DE PIQUE mais mentionnée comme telle,Salazie,CIREST,Mare à Martin,Mare à Martin,DEPARTEMENT ?,"2","0","999","0","0","999",Non,Oui,"0",Non,PN38S1,Ouvrage BU,0.000,./0.png
+-33.235393430347,-85.5266102439033,1,,,Salazie,CIREST,Aire de détente de Ravine Blanche,"Ravine Blanche, Grand Ilet",DEPARTEMENT,"1","0","0","0","0","999",Non,,"0",Non,,Ouvrage BU,0.000,./0.png
+-33.2354139119927,-85.526613365556,3,PN27,1 spot,Sainte-Rose,CIREST,Forêt de Bois Blanc,"Point de Bois Blanc, front de mer",COMMUNE,"3","5","999","2","6","0",Non,Non,"0",Non,PN42S1,Ouvrage BU,7.000,./0.png
+-33.2354337472578,-85.5266128597209,2,PN16,1 spot,Saint-Philippe,CASUD,La Marine,"Place de la Marine, centre-ville",ETAT,"2","0","999","0","0","0",Non,Non,"999",Non,PN16S1,Ouvrage BU,0.000,./0.png
+-33.2354260171118,-85.5266131918483,2,PN26,1 spot,Saint-Philippe,CASUD,Pointe du Tremblet,Belvédère du Vieux Port (nom de l'aire),ONF (DO),"2","0","0","0","0","0",Non,Non,"999",Non,PN26S1,Ouvrage BU,0.000,./0.png
+-33.2353954631843,-85.5266080005207,2,PN23,PAS D'AIRE DE PIQUE mais mentionnée comme telle,Saint-Paul,TCO,Plage du Petit Boucan,Boucan-Canot,NR,"2","0","999","0","0","0",Non,Oui,"999",Non,PN23S1,Ouvrage BU,0.000,./0.png
+-33.2353987038372,-85.5266086485734,1,,PAS D'AIRE DE PIQUE-NIQUE INDIQUEE mais mentionnée comme telle,Saint-Paul,TCO,Tan Rouge,"Chemin Tan Rouge, pas de localisation plus précise",,"1","0","999","0","999","0",Non,Oui,"999",Non,,Ouvrage BU,0.000,./0.png
+-33.2354003084903,-85.5266079822002,1,,PAS D'AIRE DE PIQUE-NIQUE INDIQUEE mais indiquée comme telle,Saint-Paul,TCO,Plages de l'Ermitage-les-Bains,Plages de l'Ermitage-les-Bains,,"1",,,,,,,,,,,Ouvrage BU,,./0.png
+-33.2353936266115,-85.5266083428866,1,,,Saint-Paul,TCO,Parc de la grotte du peuplement,"Grotte du peuplement, route des Premiers Français",COMMUNE,"1",,,,,,,,,,,,,./0.png
+-33.2353846863632,-85.5266090138815,1,,PAS D'AIRE DE PIQUE-NIQUE INDIQUE mais mentionnée comme telle,La Possession,TCO,Centre-ville de la Possession,"Centre-ville, pas de localisation précise",,"1",,,,,,,,,,,,,./0.png
+0,0,,,,Le Tampon,CASUD,Aire d'accueil du Plateau Nez de Boeuf,"Route forestière du volcan RF5, Plaine des Cafres",ETAT,,,,,,,,,,,,,,./0.png
+-33.2353905606408,-85.5266086805185,,PN3,pas de données,Saint-Paul,TCO,Etang Saint-Paul,"Etang Saint-Paul, Ravine Bernica",DEPARTEMENT,"3",,,,,,,,,,PN3S2,,,./0.png
+-33.2353993446253,-85.5266117322039,,,,Saint-Benoît,CIREST,Piton Papangue,Chemin Grand Fond D53,,,,,,,,,,,,,CDLR,,./0.png
+-33.2353859502857,-85.5266098998373,,PN9,6 spots,Saint-Denis,CINOR,Aire d'accueil de Maniquet,"Forêt du Grand Brûlé, Chemin de la Roche Ecrite RF1",ONF (DD),"3","10","0","5","10","0","1",Oui,"6",Non,PN2S1,CDLR,15.000,./0.png
+-33.2354145737563,-85.5266115954786,,PN17,7 spots,Le Tampon,CASUD,Aire d'accueil du Plateau Nez de Boeuf,"Route Forestière du volcan RF5, Plaine des Cafres",ETAT,"2","27","1","8","27","0",Non,Oui,"7",Non,PN17S4,CDLR,35.000,./0.png
+-33.2354139152497,-85.5266116785489,,PN17,Pas de données,Le Tampon,CASUD,Piton Textor,"Route forestière du volcan RF5, Plaine des Cafres",ETAT,"2",,,,,,,,,,PN17S5,,,./0.png
+-33.2354084110377,-85.5266092295726,,PN24,2 spots,Saint-Paul,TCO,Ravine de Fontaine,Route forestière des Tamarins RF 9B,ONF (DD),"2","3","0","0","2","0",Non,Oui,"2",Non,PN24S4,CDLR,3.000,./0.png
+-33.2354072926601,-85.5266092284109,,PN24,1 spot,Saint-Paul,TCO,Sentier Grand Fond,Route forestière des Tamarins RF 9B,ONF (DD),"2","5","0","0","4","0",Non,Oui,"1",Non,PN24S5,CDLR,5.000,./0.png
+-33.2354108259625,-85.5266092722702,,PN24,1 spot,Saint-Paul,TCO,Camélias,Route forestière des Tamarins RF 9B,ONF (DD),"2","2","0","0","1","0",Non,Oui,"1",Non,PN24S2,CDLR,2.000,./0.png
+-33.2354092105844,-85.5266092382025,,PN24,12 spots,Saint-Paul,TCO,Bras Mahot,Route forestière des Tamarins RF 9B,ONF (DD),"2","13","2","3","16","0",Non,Non,"12",Non,PN24S3,CDLR,16.000,./0.png
+-33.2354050537953,-85.5266092055923,,PN24,3 spots,Saint-Paul,TCO,Croisée Timor,Route forestière de Timour RF7,ONF (DD),"2","7","0","1","7","0",Non,Oui,"3",Non,PN24S7,CDLR,8.000,./0.png
+-33.2354056685944,-85.5266092630395,,PN24,3 spots,Saint-Paul,TCO,(Ravine des Colimaçons),Route forestière des Tamarins RF 9B,ONF (DD),"2","10","2","2","7","0",Non,OuI,"3",Non,PN24S6,CDLR,12.000,./0.png
+-33.2354041693863,-85.5266092518324,,PN24,2 spots,Saint-Paul,TCO,Gîte des Tamarins,Route forestière des Tamarins RF 9A,ONF (DD),"2","12","0","3","12","0",Non,Oui,"2",Non,PN24S18,CDLR,15.000,./0.png
+-33.2354034247202,-85.5266092425443,,PN24,2 spots,Saint-Paul,TCO,(Bras Calebasse),Route forestière des Tamarins RF 9A,ONF (DD),"2","2","0","0","2","0",Non,Oui,"2",Non,PN24S19,CDLR,2.000,./0.png
+-33.2354030092295,-85.5266092273059,,PN24,3 spots,Saint-Paul,TCO,Fond Persil,Route forestière des Tamarins RF 9A,ONF (DD),"2","5","0","1","4","0",Oui,Oui,"3",Non,PN24S20,CDLR,6.000,./0.png
+-33.2354025571431,-85.5266092188045,,PN24,1 spot,Saint-Paul,TCO,(Ravine des Trois Bassins),Route forestière des Tamarins RF 9A,ONF (DD),"2","1","0","0","1","0",Non,Non,"1",Non,PN24S21,CDLR,1.000,./0.png
+-33.235402222746,-85.5266092230752,,PN24,4 spots,Saint-Paul,TCO,(Sommière la Saline),Route forestière des Tamarins RF 9A,ONF (DD),"2","8","0","2","9","0",Oui,Oui,"4",Non,PN24S22,CDLR,10.000,./0.png
+-33.235400595646,-85.5266092391303,,PN24,5 spots,Saint-Paul,TCO,(Bras la Source),Route forestière des Tamarins RF 9A,ONF (DD),"2","7","0","0","7","0",Non,Oui,"5",Non,PN24S24,CDLR,7.000,./0.png
+-33.2353990962016,-85.5266092817251,,PN24,3 spots,Saint-Paul,TCO,(Ravine Divon),Route forestière des Tamarins RF 9A,ONF (DD),"2","5","0","0","5","0",Non,Oui,"3",Non,PN24S25,CDLR,5.000,./0.png
+-33.2353988047373,-85.5266092826194,,PN24,2 spots,Saint-Paul,TCO,(Sentier du Milieu),Route forestière des Tamarins RF 9A,ONF (DD),"2","2","0","0","2","0",Non,Oui,"2",Non,PN24S26,CDLR,2.000,./0.png
+-33.2353944879962,-85.5266097972864,,,,La Possession,,,,,,,,,,,,,,,,,,./0.png
+-33.235396485094,-85.5266096736688,,,,La Possession,,,,,,,,,,,,,,,,,,./0.png
+-33.2354039850399,-85.5266098813415,,,,Saint-Paul,,,,,,,,,,,,,,,,,,./0.png
+-33.2354000275692,-85.5266095802983,,,,Saint-Paul,,,,,,,,,,,,,,,,,,./0.png
+-33.235404312916,-85.5266095593856,,,,Les Trois Bassins,,,,,,,,,,,,,,,,,,./0.png
+-33.2353951072221,-85.5266084243951,,,,Saint-Paul,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354054799467,-85.5266117769856,,,,La Plaine des Palmistes,,,,,,,,,,,,,,,,base_equipement,,./0.png
+-33.2354008597711,-85.5266126187663,,,,Saint-Benoît,,,,,,,,,,,,,,,,base_equipement,,./0.png
+-33.2353938483397,-85.526612272714,,,,Saint-Benoît,,,,,,,,,,,,,,,,base_equipement,,./0.png
+-33.235394340151,-85.5266123030253,,,,Saint-Benoît,,,,,,,,,,,,,,,,base_equipement,,./0.png
+-33.2353955092242,-85.5266123943561,,,,Saint-Benoît,,,,,,,,,,,,,,,,base_equipement,,./0.png
+-33.2354327895797,-85.5266115156398,,,,Saint-Joseph,,,,,,,,,,,,,,,base_equipement,,,./0.png
+-33.235417317855,-85.5266102388866,,,,Entre-Deux,,,,,,,,,,,,,,,base_equipement,,,./0.png
+-33.2354154738863,-85.5266100226096,,,,Saint-Louis,,,,,,,,,,,,,,,base_equipement,,,./0.png
+-33.2354070192644,-85.5266102365681,,,,Cilaos,,,,,,,,,,,,,,,base_equipement,,,./0.png
+-33.2353987046056,-85.5266102857574,,,,Salazie,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353951538102,-85.5266098399301,,,,La Possession,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354187110231,-85.5266103404174,,,,Entre-Deux,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353910626183,-85.5266094968901,,,,La Possession,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354067709404,-85.5266087197266,,,,Saint-Leu,CIVIS,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353973120117,-85.5266081012408,,,,Saint-Paul,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353987360188,-85.5266080100651,,,,Saint-Paul,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354147316199,-85.5266085531756,,,,Saint-Leu,CIVIS,Pointe au Sel,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354118516086,-85.526609654112,,PN19,pas de données,Saint-Louis,CIVIS,NR,Route forestière des Makes RF11,DEPARTEMENT,"2",,,,,,,,,,PN19S11,osm_shelter,,./0.png
+-33.2354147038477,-85.5266111680542,,,,Le Tampon,,,,,,,,,,,,,,,,,,./0.png
+-33.235424444849,-85.5266102310642,,,,Saint-Pierre,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354286403274,-85.5266103414513,,,,Saint-Pierre,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354287429204,-85.5266103690281,,,,Saint-Pierre,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354245504389,-85.5266096330547,,,,Saint-Louis,CIVIS,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354226661794,-85.5266093502398,,,,L'Etang-Salé,,,A ENLEVER,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354204224886,-85.5266088899413,,,,Les Avirons,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.235396720074,-85.5266082302774,,,,Saint-Paul,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353966065774,-85.5266082768638,,,,Saint-Paul,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353987740524,-85.5266080351361,,,,Saint-Paul,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353993072823,-85.5266093905894,,PN24,1 spot,Saint-Paul,TCO,La Caverne du Maïdo,Route forestière du Maïdo RF 8,ONF (DD),"2","1","0","0","1","0",Non,Non,"1",Non,PN24S35,CLDR,1.000,./0.png
+-33.2353997101709,-85.5266093911885,,PN24,1 spot,Saint-Paul,TCO,(Ravine Divon),Route forestière du Maïdo RF 8,ONF (DD),"2","1","0","1","1","0",Non,Oui,"1",Non,PN24S37,CDLR,2.000,./0.png
+-33.2353999957223,-85.526609464181,,PN24,1 spot,Saint-Paul,TCO,Point du vue,Route forestière du Maïdo RF 8,ONF (DD),"2","4","6","0","1","0",Oui,Oui,"1",Non,PN24S40,CDLR,4.000,./0.png
+-33.2354036791839,-85.526609892532,,,,Saint-Paul,,,,,,,,,,,,,,,,picnic_table,,./0.png
+-33.2354037666376,-85.5266098939269,,,,Saint-Paul,,,,,,,,,,,,,,,,picnic_table,,./0.png
+-33.2354074604068,-85.5266101842392,,,,Cilaos,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354091752602,-85.5266102706347,,,,Cilaos,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354203774974,-85.5266101649444,,,,Entre-Deux,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.235422328079,-85.526610546851,,,,Le Tampon,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354188013443,-85.5266109871761,,,,Le Tampon,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354234806432,-85.5266116352598,,,,Saint-Joseph,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353954380739,-85.5266114755398,,PN35,1 spot,Bras-Panon,CIREST,L'Éden,Bras sec,DEPARTEMENT,,,,,,,,,,,PN35S2,osm_shelter,,./0.png
+-33.2353952314895,-85.5266115480805,,PN35,1 spot,Bras-Panon,CIREST,L'Éden,Bras sec,DEPARTEMENT,,,,,,,,,,,PN35S1,osm_shelter,,./0.png
+-33.2353923866724,-85.5266121982579,,,,Bras-Panon,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353919996077,-85.5266121473578,,,,Bras-Panon,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354005688062,-85.52661055878,,,,Salazie,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354005195041,-85.5266106508513,,,,Salazie,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354182323115,-85.5266111543263,,,,Le Tampon,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354158660196,-85.5266096712393,,,2 spots,Saint-Louis,CIVIS,Aire d'accueil de la Pépinière,,DEPARTEMENT,,"12","10","0","10","0",Non,Oui,"0",Non,,CDLR,12.000,./0.png
+-33.2354106185685,-85.5266133684806,,,,Sainte-Rose,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353913889834,-85.5266120547102,,,,Bras-Panon,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353915334191,-85.5266120575202,,,,Bras-Panon,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.235391282609,-85.5266113088976,,,,Saint-André,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353982326534,-85.5266100629677,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","2","0","1","2","0",Non,Oui,"0",Non,PN32S9,CDLR,3.000,./0.png
+-33.2353979848879,-85.5266100590484,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","0","0","1","1","0",Non,Oui,"0",Non,PN32S7,CDLR,1.000,./0.png
+-33.2353979807406,-85.5266100775879,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","0","0","1","1","0",Non,Oui,"0",Non,PN32S6,CDLR,1.000,./0.png
+-33.2353973164351,-85.5266100845425,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","1","0","1","2","0",Non,Oui,"0",Non,PN32S5,CDLR,2.000,./0.png
+-33.235397576733,-85.5266100900003,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","1","0","1","2","0",Non,Oui,"0",Non,PN32S4,CDLR,2.000,./0.png
+-33.2353975412178,-85.5266100970671,,PN32,1 spot,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","1","0","1","2","0",Non,Oui,"0",Non,PN32S3,CDLR,2.000,./0.png
+-33.235400088357,-85.5266116871778,,,,Saint-Benoît,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353940797729,-85.5266098100843,,,,La Possession,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2353960739044,-85.5266095865916,,,,Saint-Paul,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354310818483,-85.5266123354036,,,,Saint-Philippe,,,,,,,,,,,,,,,,raster_ONF,,./0.png
+-33.2354307936064,-85.5266122836549,,,,Saint-Philippe,,,,,,,,,,,,,,,,raster ONF,,./0.png
+-33.2354309286126,-85.5266123124604,,,,Saint-Philippe,,,,,,,,,,,,,,,,osm_shelter,,./0.png
+-33.2354336334,-85.5266127466859,,PN28,pas de données,Saint-Philippe,CASUD,Mare Longue les Bas,Mare Longue,DEPARTEMENT,"2","0","0","1","1","0",Non,Non,"1",Non,PN28S4,CDLR,1.000,./0.png
+-33.2354295351163,-85.526612237424,,,,Saint-Philippe,,,,,,,,,,,,,,,,raster ONF,,./0.png
+-33.235416962004,-85.5266121386695,,,,Sainte-Rose,,,,,,,,,,,,,,,,raster ONF,,./0.png
+-33.2354177874389,-85.5266121215462,,,,Sainte-Rose,,,,,,,,,,,,,,,,raster ONF,,./0.png
+-33.2354176891443,-85.5266120802615,,,,Sainte-Rose,,,,,,,,,,,,,,,,raster ONF,,./0.png
+-33.2354184965517,-85.526611809925,,,,Sainte-Rose,,,,,,,,,,,,,,,,raster ONF,,./0.png
+-33.2354157313127,-85.5266117589193,,PN17,Pas de données,Le Tampon,CASUD,NR,"Route Forestière du volcan RF5, Plaine des Cafres",ETAT,,,,,,,,,,,PN17S7,,,./0.png
+-33.2354257378021,-85.5266117747681,,,,Saint-Joseph,,,,,,,,,,,,,,,,raster ONF,,./0.png
+-33.235407278492,-85.5266110659921,,PN4,2 spots,Saint-Benoît,CIREST,Aire d'accueil de Duvernay,Route forestière de Duvernay RF22,ONF (DD),"2","1","0","8","8","0",Non,Oui,"0",Non,PN27S1,CDLR,9.000,./0.png
+-33.2354068075235,-85.5266111074235,,PN4,3 spots,Saint-Benoît,CIREST,Camp de Bébour,Route forestière de Bébour-Bélouve RF2,ONF (DD),"2","3","0","3","3","0",Non,Oui,"0",Non,PN27S2,CDLR,6.000,./0.png
+-33.2354006471432,-85.5266108644576,,PN4,1 spot,Salazie,CIREST,Ravine Mazerin,Route forestière de Bébour-Bélouve RF2,ONF(DD),"2","3","0","0","2","0",Non,Oui,"0",Non,PN27S3,CDLR,3.000,./0.png
+-33.2354140291963,-85.5266098184713,,PN19,1 spot,Saint-Louis,CIVIS,Camp de Montplaisir,Route forestière des Makes RF11,DEPARTEMENT,"2","5","0","0","1","0",Non,Oui,"1",Non,PN19S3,CDLR,5.000,./0.png
+-33.2354136857739,-85.5266098665193,,PN19,1 spot,Saint-Louis,CIVIS,(Vue sur Dimitile),Route forestière des Makes RF11,DEPARTEMENT,"2","2","0","0","1","0",Oui,Non,"1",Non,PN19S5,CDLR,2.000,./0.png
+-33.2354060474786,-85.5266110917589,3,PN4,Total des spots,Saint-Denis,CINOR,Forêt de Bébour,Route forestière de Bébour-Bélouve RF2,ONF (DD),"3","18","0","15","19","2",Non,Oui,"4",Non,PN4S00,CRDL,33.000,./0.png
+-33.2353861388121,-85.5266099178255,3,PN9,Total des spots,Saint-Denis,CINOR,Forêt du Grand Bûlé,"Forêt du Grand Bûlé, Chemin de la Roche Ecrite RF1",ONF (DD),"3","85","1","14","49","7",Oui,Oui,"21",Non,PN9S00,CDRL,99.000,./0.png
+-33.2354151327828,-85.5266115629503,2,PN17,Total des spots,Le Tampon,CASUD,Route du volcan,"Route Forestière du volcan RF5, Plaine des Cafres",ETAT,"2","86","41","19","81","0",Non,Oui,"23",Non,PN17S00,CDLR,105.000,./0.png
+-33.2354051773155,-85.5266092622897,2,PN24,Total des spots,Saint-Paul,TCO,Route forestière des Tamarins,Route forestière des Tamarins,ONF (DD),"2","143","16","36","155","0",Oui,Oui,"84",Non,PN24S00,CDLR,179.000,./0.png
+-33.2354150043831,-85.526609770672,,PN19,2 spots,Saint-Louis,CIVIS,(Bras Montplaisir),Route forestière des Makes RF11,DEPARTEMENT,"2","1","0","1","2","0",Non,Oui,"2",Non,PN19S1,CDLR,2.000,./0.png
+-33.2354134563147,-85.5266097811724,,PN19,1 spot,Saint-Louis,CIVIS,NR,Route forestière de la Scerie RF58,DEPARTEMENT,"2","0","0","0","1","0",Non,Oui,"1",Non,PN19S9,CDLR,0.000,./0.png
+-33.2353976917193,-85.5266100742357,2,PN32,Total des spots,Salazie,CIREST,Route forestière du Haut de Mafate,Route forestière des hauts de Mafate,ONF (DD),"2","9","999","11","10","0",Oui,Oui,"999",Non,PN32S00,Ouvrage BU,20.000,./0.png
+-33.2354325362115,-85.5266126134868,2,PN28,Total des spots,Saint-Philippe,CASUD,Forêt de Mare Longue,Mare Longue,DEPARTEMENT,"2","1","0","2","2","0",Non,Oui,"2",Non,PN19S00,Ouvrage BU et CDLR,3.000,./0.png
+-33.2354342545823,-85.5266125433425,,,,,,Puits des Anglais,,,,,,,,,,,,,,,,./0.png
+-33.2354323529148,-85.5266126019218,,PN28,1 spot,Saint-Philippe,CASUD,Forêt de Mare Longue,Mare Longue,DEPARTEMENT,"2",,,,,,,,,,PN28S3,,,./0.png
+-33.2354337025646,-85.5266117857331,,PN29,1 spot,Saint-Joseph,CASUD,Rivière Langevin,Langevin,ONF (DD),"2",,,,,,,,,,PN29S2,,,./0.png
+-33.2354339153748,-85.5266117850562,,PN29,1 spot,Saint-Joseph,CASUD,Rivière Langevin,Langevin,ONF (DD),"2",,,,,,,,,,PN29S3,,,./0.png
+-33.2354339789185,-85.5266117855139,,PN29,1 spot,Saint-Joseph,CASUD,Rivière Langevin,Langevin,ONF (DD),"2",,,,,,,,,,PN29S4,,,./0.png
+-33.2354340977536,-85.526611788431,,PN29,1 spot,Saint-Joseph,CASUD,Rivière Langevin,Langevin,ONF (DD),"2",,,,,,,,,,PN29S5,,,./0.png
+-33.2354341967167,-85.5266117948747,,PN29,1 spot,Saint-Joseph,CASUD,Rivière Langevin,Langevin,ONF (DD),"2",,,,,,,,,,PN29S6,,,./0.png
+-33.2354221764365,-85.5266113792565,,PN54,1 spot,Le Tampon,CASUD,Forêt de Notre Dame de la Paix,D53 Route Notre Dame de la Paix,DEPARTEMENT,,"5","0","1","5","0",Non,Oui,"1",Non,PN54S1,CDLR,6.000,./0.png
+-33.2354224487803,-85.5266113616952,,PN54,1 spot,Le Tampon,CASUD,Forêt de Notre Dame de la Paix,D53 Route Notre Dame de la Paix,DEPARTEMENT,,"0","999","1","1","0",Non,Oui,"1",Non,PN54S3,CDLR,1.000,./0.png
+-33.235423629156,-85.5266092494373,,PN20,1 spot,Etang-Salé,CIVIS,Kiosque de la forêt,"Forêt Dépatementalo-Domaniale de l'Etang-Salé, L'Etang-Salé-Les-Bains",DEPARTEMENT,"3","1","0","1","1","0",Non,Oui,"1",Non,PN20S2,CDLR,2.000,./0.png
+-33.2354228487059,-85.5266091034166,3,PN20,Total des spots,Etang-Salé,CIVIS,Plage de l'Etang-Salé,"Forêt Dépatementalo-Domaniale de l'Etang-Salé, L'Etang-Salé-Les-Bains",DEPARTEMENT,"3","13","5","6","9","2",Non,Oui,"5",Non,PN20S00,CDLR,19.000,./0.png
+-33.2353849115083,-85.5266096447467,,PN33,1 spot,Saint-Denis,CINOR,Plaine d'Affouches,Route forestière d'Affouches RF20,ONF (DD),"2","3","0","1","3","0",Non,Oui,"1",Non,PN33S1,CDLR,4.000,./0.png
+-33.2353850997245,-85.5266096399085,,PN33,1 spot,Saint-Denis,CINOR,Plaine d'Affouches,Route forestière d'Affouches RF20,ONF (DD),"2","2","0","0","2","0",Non,Oui,"1",Non,PN33S2,CDLR,2.000,./0.png
+-33.2353855134622,-85.5266096228698,,PN33,1 spot,Saint-Denis,CINOR,Plaine d'Affouches,Route forestière d'Affouches RF20,ONF (DD),"2","1","0","0","1","0",Non,Non,"1",Non,PN33S3,CDLR,1.000,./0.png
+-33.2353856785663,-85.5266096264919,,PN33,1 spot,Saint-Denis,CINOR,Plaine d'Affouches,Route forestière d'Affouches RF20,ONF (DD),"2","1","0","0","1","0",Non,Oui,"1",Non,PN33S4,CDLR,1.000,./0.png
+-33.2353860272137,-85.5266096260123,,PN33,1 spot,Saint-Denis,CINOR,Plaine d'Affouches,Route forestière d'Affouches RF20,ONF (DD),"2","3","0","0","4","0",Non,Oui,"1",Non,PN33S6,CDLR,3.000,./0.png
+-33.2353858853187,-85.5266096157674,,PN33,1 spot,Saint-Denis,CINOR,Plaine d'Affouches,Route forestière d'Affouches RF20,ONF (DD),"2","0","0","1","1","0",Non,Oui,"1",Non,PN33S5,CDLR,1.000,./0.png
+-33.2353865179891,-85.5266096401877,,PN33,1 spot,Saint-Denis,CINOR,Plaine d'Affouches,Route forestière d'Affouches RF20,ONF (DD),"2","0","0","1","1","0",Non,Oui,"1",Non,PN33S7,CDLR,1.000,./0.png
+-33.2354089135346,-85.5266113161592,,PN36,1 spot,Plaine-des-Palmistes,CIREST,Forêt de la Petite Plaine,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2","28","0","7","23","0",Non,Oui,"8",Oui,PN36S1,CDLR,35.000,./0.png
+-33.2354089480133,-85.5266112998855,,PN36,1 spot,Plaine-des-Palmistes,CIREST,Forêt de la Petite Plaine,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2","16","0","0","15","0",Non,Oui,"4",Non,PN36S2,CDLR,16.000,./0.png
+-33.2354088283382,-85.5266112866015,,PN36,1 spot,Plaine-des-Palmistes,CIREST,Forêt de la Petite Plaine,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2","7","0","3","4","0",Non,Oui,"2",Non,PN36S3,CDLR,10.000,./0.png
+-33.2354087148446,-85.5266112788282,,PN36,1 spot,Plaine-des-Palmistes,CIREST,Forêt de la Petite Plaine,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2","9","0","2","8","0",Non,Oui,"2",Non,PN36S4,CDLR,11.000,./0.png
+-33.2354084444534,-85.5266112666952,,PN36,1 spot,Plaine-des-Palmistes,CIREST,Forêt de la Petite Plaine,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2","3","0","1","3","0",Oui,Oui,"2",Non,PN36S5,CDLR,4.000,./0.png
+-33.2354083105042,-85.5266112730779,,PN36,1 spot,Plaine-des-Palmistes,CIREST,Forêt de la Petite Plaine,Route forestière de Bébour-Bélouve RF2,DEPARTEMENT,"2","6","0","2","5","0",Oui,Oui,"0",Non,PN36S6,CDLR,8.000,./0.png
+-33.2354107817754,-85.5266085654884,,,1 spot,Saint-Leu,CIVIS,Le Port,Front de mer de Saint-Leu,,,"8","999","0","8","999",Oui,Oui,"999",Oui,,Ouvrage BU,8.000,./0.png
+-33.2353801623976,-85.5266100856368,,,1 spot,Saint-Denis,CINOR,La Providence,,,,"3","999","0","3","1",Oui,Oui,"999",Non,,Ouvrage BU,3.000,./0.png
+-33.2354054096765,-85.5266090806375,,PN24,1 spot,Saint-Paul,TCO,NR,Route forestière de Timour RF7,ONF (DD),"2","1","0","1","2","0",Oui,Oui,"1",Non,PN24S9,CDLR,2.000,./0.png
+-33.2354060273939,-85.5266090679339,,PN24,1 spot,Saint-Paul,TCO,(Bassin la Mer),Route des Cryptomérias,ONF (DD),"2","0","0","1","1","0",Non,Oui,"1",Non,PN24S10,CDLR,1.000,./0.png
+-33.2354046105417,-85.5266090408782,,PN24,1 spot,Saint-Paul,TCO,(Petit Bras de la Grande Ravine),Route des Cryptomérias,ONF (DD),"2","1","0","0","1","0",Non,Oui,"1",Non,PN24S13,CDLR,1.000,./0.png
+-33.2354042038268,-85.526609037436,,PN24,1 spot,Saint-Paul,TCO,(Grande Ravine),Route des Cryptomérias,ONF (DD),"2","4","0","2","4","0",Non,Oui,"1",Non,PN24S14,CDLR,6.000,./0.png
+-33.2354038454909,-85.5266090393376,,PN24,1 spot,Saint-Paul,TCO,(Sentier Vaudeville - Grand Bénare),Route des Cryptomérias,ONF (DD),"2","0","1","1","1","0",Non,Oui,"1",Non,PN24S15,CDLR,1.000,./0.png
+-33.2354036107601,-85.5266090398597,,PN24,1 spot,Saint-Paul,TCO,(Les Trois Bassins),Route des Cryptomérias,ONF (DD),"2","2","0","1","2","0",Non,oui,"1",Non,PN24S16,CDLR,3.000,./0.png
+-33.235405813658,-85.5266090467252,,PN24,3 spots,Saint - Paul,TCO,NR,Route des Cryptomérias,ONF (DD),"2","5","0","1","6","0",Non,Non,"3",Non,PN24S11,CDLR,6.000,./0.png
+-33.2353986175215,-85.5266093083558,,PN24,4 spots,Saint - Paul,TCO,Camp Dennemont,Route forestière du Maïdo RF 8,ONF (DD),"2","5","0","0","4","0",Non,Oui,"4",Non,PN24S28,CDLR,5.000,./0.png
+-33.2353987182149,-85.5266093261875,,PN24,3 spots,Saint - Paul,TCO,Piste forestière Dennemont,Route forestière du Maïdo RF 8,ONF (DD),"2","2","2","0","3","0",Non,Non,"3",Non,PN24S9,CDLR,2.000,./0.png
+-33.2353987310509,-85.526609357679,,PN24,1 spot,Saint - Paul,TCO,NR,Route forestière du Maïdo RF 8,ONF (DD),"2","5","1","1","5","0",Non,Non,"1",Non,PN24S31,CDLR,6.000,./0.png
+-33.2353988517568,-85.5266093766869,,PN24,1 spot,Saint - Paul,TCO,NR,Route forestière du Maïdo RF 8,ONF (DD),"2","2","0","0","2","0",Non,Oui,"1",Non,PN24S33,CDLR,2.000,./0.png
+-33.2353989131127,-85.526609388562,,PN24,2 spots,Saint - Paul,TCO,NR,Route forestière du Maïdo RF 8,ONF (DD),"2","2","0","1","4","0",Non,Oui,"2",Non,PN24S34,CLDR,3.000,./0.png
+-33.2353994268801,-85.5266093985427,,PN24,1 spot,Saint - Paul,TCO,NR,Route forestière du Maïdo RF 8,ONF (DD),"2","2","0","0","1","0",Non,Oui,"1",Non,PN24S36,CLDR,2.000,./0.png
+-33.2354000017904,-85.5266094005146,,PN24,1 spot,Saint - Paul,TCO,NR,Route forestière du Maïdo RF 8,ONF (DD),"2","0","1","1","1","0",Non,Oui,"1",Non,PN24S38,CDLR,1.000,./0.png

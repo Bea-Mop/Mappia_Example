@@ -1,0 +1,117 @@
+X,Y,ID,NOM,LONG(x),LAT(y),LABEL,ANNEE,LIEU,STATUT,PRODUITS,icon_url
+-33.2354268654459,-85.5266106917846,"1",La ferme des Pitayas,55.524810000000002,-21.305133000000001,Accueil Paysan,,Le Tampon,,Gîtes,./0.png
+-33.2353983967559,-85.5266084002127,"2",Ferme Ichabe,55.267169000000003,-21.057528999999999,Accueil Paysan,,Saint-Paul,,Table d'hôtes,./0.png
+-33.235395200202,-85.5266080220563,"3",Plage Boucan Canot,55.224707000000002,-21.029782999999998,Pavillon Bleu,,Saint-Paul,,Espace marine,./0.png
+-33.2354006664933,-85.5266079823737,"4",Plage Ermitage,55.220460000000003,-21.077546999999999,Pavillon Bleu,,Saint-Giles,,Espace marine,./0.png
+-33.2353978762046,-85.5266080149541,"5",Les roches noires,55.224007999999998,-21.053159999999998,Pavillon Bleu,,Saint-Giles,,Espace marine,./0.png
+-33.2353861176121,-85.5266090676645,"6",Lodge Roche Tamarin & Spa,55.341470000000001,-20.949967999999998,Spa de France,,La Possession,,Massage - Bien être,./0.png
+-33.2353911305902,-85.5266085263175,"7",Saint-Paul,55.281028999999997,-20.994004000000000,Stations classées,,Saint-Paul,,Communes touristiques,./0.png
+-33.2353951676278,-85.5266105670782,"8",Salazie,55.509703999999999,-21.028324000000001,Stations vertes,,Salazie,,Tourisme de nature,./0.png
+-33.2354174703149,-85.5266089814674,"9",Entre-Deux,55.332946000000000,-21.223859999999998,Stations vertes,,Entre-Deux,,Tourisme de nature,./0.png
+-33.2353994607823,-85.5266106490415,"10",Hell-Bourg,55.519036999999997,-21.065785000000002,Les plus beaux villages de France,,Salazie,,Patrimoine naturel et bâti,./0.png
+-33.23540300649,-85.5266082095855,"11",Poz Lagon,55.245987999999997,-21.097881000000001,Qualité Tourisme,,Saline les Bains,,"Chambre d'hôtes, Gîte",./0.png
+-33.235386811563,-85.5266087780661,"12",Feudoux Reunion,55.309064999999997,-20.956163000000000,Qualité Tourisme,,Le Port,,Restaurant,./0.png
+-33.2354334490265,-85.52661178741,"13",Canyon Aventure,55.647737999999997,-21.362131999999999,Qualité Tourisme,,Saint-Joseph,,Sport de nautre,./0.png
+-33.2353833928433,-85.5266100847338,"14",Domaine de Beaubassin,55.455266000000002,-20.925699000000002,Qualité Tourisme,,Saint-Denis,,Lieu de visite,./0.png
+-33.2353774292529,-85.5266100276146,"15",Le Sonata,55.448655000000002,-20.873636000000001,Qualité Tourisme,,Saint-Denis,,Restaurant,./0.png
+-33.2353850359889,-85.5266085876518,"16",Festiyacht de Bourbon,55.287678000000000,-20.940742000000000,Qualité Tourisme,,Le Port,,Sport de nautre,./0.png
+-33.2353977333962,-85.5266080444957,"17",R de Famille,55.227311000000000,-21.051898999999999,Qualité Tourisme,,Saint-Paul,,Restaurant,./0.png
+-33.2353993685963,-85.5266106485978,"18",Musée des musiques et intruments de l'OI,55.518984000000003,-21.064979999999998,Qualité Tourisme,,Salazie,,Lieu de visite,./0.png
+-33.2353976963555,-85.5266084572145,"19",Solid'Air Parapente,55.273527000000001,-21.051385000000000,Qualité Tourisme,,Saint-Paul,,Sport de nautre,./0.png
+-33.2353978290399,-85.5266080367048,"20",DCP Saint Gilles,55.226441999999999,-21.052738000000002,Qualité Tourisme,,Saint-Paul,,Restaurant,./0.png
+-33.2353845172861,-85.5266119581723,"21",Le Bel Ombre,55.665098999999998,-20.934656000000000,Qualité Tourisme,,Saint-Andre,,"Chambre d'hôtes, Gîte",./0.png
+-33.2354291385431,-85.5266103765586,"22",Acroroc parc aventure,55.489592000000002,-21.325133000000001,Qualité Tourisme,,Saint-Pierre,,Sport de nautre,./0.png
+-33.2354044972884,-85.5266098184277,"23",Le Bois de Couleur,55.426203999999998,-21.110160000000000,Qualité Tourisme,,Salazie,,"Chambre d'hôtes, Gîte",./0.png
+-33.2354288998677,-85.526610283987,"24",Planetair 974,55.479216999999998,-21.323091000000002,Qualité Tourisme,,Saint-Pierre,,Sport de nautre,./0.png
+-33.2353979216304,-85.5266080187973,"25",Visiobul Sea Life,55.224440000000001,-21.053554999999999,Qualité Tourisme,,Saint-Paul,,Sport de nautre,./0.png
+-33.2353930061649,-85.5266084446932,"26",Villa Riviere,55.271956000000003,-21.010424000000000,Qualité Tourisme,,Saint-Paul,,Lieu de visite,./0.png
+-33.2353981733134,-85.5266080108758,"27",Bleu Marine Reunion,55.223562000000001,-21.055757000000000,Qualité Tourisme,,Saint-Paul,,Sport de nautre,./0.png
+-33.2353776974516,-85.5266100679186,"28",Hôtel Austral,55.453178000000001,-20.875959999999999,Qualité Tourisme,,Saint-Denis,,Hôtel,./0.png
+-33.2353935531724,-85.5266085375943,"29",Réunion mer et montagne,55.282378999999999,-21.015159000000001,Qualité Tourisme,,Saint-Paul,,Sport de nautre,./0.png
+-33.2354189788746,-85.5266097324831,"30",Envergure Réunion,55.417101000000002,-21.236689999999999,Qualité Tourisme,,Sainte-Suzane,,Sport de nautre,./0.png
+-33.2353834725146,-85.5266106826046,"31",Domaine Moka,55.522219999999997,-20.926119000000000,Qualité Tourisme,,Sainte-Marie,,Restaurant,./0.png
+-33.2353795512938,-85.5266103268899,"32",Hôtel Tulip Inn,55.482244999999999,-20.892033000000001,Qualité Tourisme,,Saint-Denis,,Hôtel,./0.png
+-33.2353978893691,-85.5266080170931,"33",Hôtel Le Grand Bleu,55.224248000000003,-21.053273999999998,Qualité Tourisme,,Saint-Paul,,Hôtel - Restaurant,./0.png
+-33.235422418116,-85.5266089898962,"34",Plongée Salee,55.334068000000002,-21.267073000000000,Qualité Tourisme,,Etang-Sale,,Sport de nautre,./0.png
+-33.2354032176489,-85.5266081757445,"35",Rondavelle l'uni vert,55.242206000000003,-21.099741000000002,Qualité Tourisme,,Saint-Paul,,Restaurant,./0.png
+-33.2353840117046,-85.526610690379,"36",Chambre d'hôtes Maillot Nicole,55.523110000000003,-20.930824999999999,Qualité Tourisme,,Sainte-Marie,,"Chambre d'hôtes, Gîte",./0.png
+-33.2353942554134,-85.5266089249823,"37",Ferme du Bel Air,55.325785000000003,-21.021114000000001,Qualité Tourisme,,Saint-Paul,,"Chambre d'hôtes, Gîte",./0.png
+-33.2354342040047,-85.5266110516424,"38",Véremer,55.565372000000004,-21.369066000000000,Qualité Tourisme,,Petite-Ile,,"Chambre d'hôtes, Gîte",./0.png
+-33.2354305800897,-85.5266109123124,"39",Orkymel,55.549638999999999,-21.337477000000000,Qualité Tourisme,,Saint-Paul,,"Chambre d'hôtes, Gîte",./0.png
+-33.2354311824088,-85.5266102904775,"40",La Kazkifo,55.480026000000002,-21.343025000000001,Qualité Tourisme,,Saint-Pierre,,"Chambre d'hôtes, Gîte",./0.png
+-33.2354030021716,-85.5266081581861,"41",La Villa de la Plage,55.240231999999999,-21.097867000000001,Qualité Tourisme,,Saint-Paul,,"Chambre d'hôtes, Gîte",./0.png
+-33.2353967235734,-85.5266082799014,"42",Le Tamarinier de l'Inde,55.253636000000000,-21.042970000000000,Qualité Tourisme,,Saint-Paul,,"Chambre d'hôtes, Gîte",./0.png
+-33.2353927862923,-85.5266084197867,"43",Le Capitainerie,55.269159000000002,-21.008514999999999,Qualité Tourisme,,Saint-Paul,,Restaurant,./0.png
+-33.2353941681888,-85.526608678231,"44",Ric a Ric,55.298150000000000,-21.020465999999999,Qualité Tourisme,,Saint-Paul,,Sport de nautre,./0.png
+-33.2354209932172,-85.5266092805154,"45",Terre Caméleon,55.366560999999997,-21.254493000000000,Qualité Tourisme,,Etang-Sale,,Sport de nautre,./0.png
+-33.2353994339029,-85.5266079993975,"46",Le Recif,55.222321999999998,-21.066773000000001,Qualité Tourisme,,Saint-Giles,,Hôtel - Restaurant,./0.png
+-33.2354089601821,-85.5266084976006,"47",Air Réunion,55.278455000000001,-21.149750999999998,Qualité Tourisme,,Saint-Leu,,Sport de nautre,./0.png
+-33.2354230922095,-85.5266092107138,"48",Société réunionnnaise du golf de bourbon,55.358820000000001,-21.272859000000000,Qualité Tourisme,,Etang-Sale,,Sport de nautre,./0.png
+0,0,"49",Office de Tourisme intercommunal de l'Est de La Réunion,,,Qualité Tourisme,,,,Office de tourisme,./0.png
+0,0,"50",Office de Tourisme intercommunal du Sud de La Réunion,,,Qualité Tourisme,,,,Office de tourisme,./0.png
+0,0,"51",Office de Tourisme Destination Sud Réunion,,,Qualité Tourisme,,,,Office de tourisme,./0.png
+-33.2353980845104,-85.5266080202898,"52",Croisières et Découvertes,55.224612999999998,-21.054977000000001,Qualité Tourisme,,Trois-Bassins,,Sport de nautre,./0.png
+-33.2354092991453,-85.5266085164411,"53",Kélonia,55.280577000000001,-21.152702999999999,Qualité Tourisme,,Saint-Leu,,Ecomusée,./0.png
+-33.2354127843003,-85.5266085821347,"54",Scubananas Réunion Plongée,55.288058999999997,-21.183114000000000,Qualité Tourisme,,Saint-Leu,,Sport de nautre,./0.png
+-33.2354032830968,-85.5266081901722,,Lagon Réunion,55.243823999999996,-21.100306000000000,Qualité Tourisme,,Trois-Bassins,,Sport de nautre,./0.png
+-33.2354103817616,-85.5266085818443,,B'Leu Océan,55.287939999999999,-21.162129000000000,Qualité Tourisme,,Saint-Leu,,Sport de nautre,./0.png
+-33.2354083061614,-85.5266084703245,,L'excelsus,55.275376999999999,-21.144051000000001,Qualité Tourisme,,Saint-Leu,,Sport de nautre,./0.png
+-33.2354086268241,-85.5266084764992,,Aquabulle Plongée,55.276080000000000,-21.146849000000000,Qualité Tourisme,,Saint-Leu,,Sport de nautre,./0.png
+-33.2353851208413,-85.5266085424657,,Le Dodo Palmé,55.282620999999999,-20.941503999999998,Qualité Tourisme,,Le Port,,Sport de nautre,./0.png
+-33.2353871792629,-85.5266085108707,,Félix ULM Run,55.279156999999998,-20.959498000000000,Qualité Tourisme,,Saint-Paul,,Sport de nautre,./0.png
+-33.2354308656182,-85.5266102709246,,Au Rendez-vous,55.477825000000003,-21.340267000000001,Qualité Tourisme,,Saint-Pierre,,Restaurant,./0.png
+-33.2354276322187,-85.5266101618755,,La Saga du Rhum,55.465496999999999,-21.312075000000000,Qualité Tourisme,,Saint-Pierre,,Lieu de visite,./0.png
+-33.2354006479546,-85.5266080648746,,Jardin d'Eden,55.229697999999999,-21.077347000000000,Qualité Tourisme,,Saline les Bains,,Lieu de visite,./0.png
+-33.2354151873145,-85.5266111395274,,La Cité du Volcan,55.574528999999998,-21.202922999999998,Qualité Tourisme,,Tampon,,Lieu de visite,./0.png
+-33.2354082207978,-85.5266085643308,,Le Domaine de la pointe des châteaux,55.285901000000003,-21.143262000000000,Qualité Tourisme,,Saint-Leu,,Lieu de visite,./0.png
+-33.2354027217551,-85.5266085952101,,La Part des Anges Distillation,55.289161000000000,-21.095216000000001,Qualité Tourisme,,Saint-Paul,,Visite d'entreprises,./0.png
+-33.2354067608065,-85.526610294792,,Cilaosa parc aventure,55.479630000000000,-21.129711000000000,Qualité Tourisme,,Cilaos,,Parc de loisir,./0.png
+-33.2354309579868,-85.5266101296586,,Le Battant des Lames,55.462009000000002,-21.341138999999998,Qualité Tourisme,,Saint-Pierre,,Hôtel - Restaurant,./0.png
+-33.2353779484876,-85.5266100737496,,La Calade,55.453840000000000,-20.878150000000002,Qualité Tourisme,,Saint-Denis,,Restaurant,./0.png
+-33.2354017779417,-85.5266081384336,,Dina Morgabine Saint Gilles,55.237976000000003,-21.087183000000000,Qualité Tourisme,,Saint-Paul,,Hôtel - Restaurant,./0.png
+-33.2354309862596,-85.5266102400506,,Hôtel Le Saint-Pierre,55.474372000000002,-21.341335000000001,Qualité Tourisme,,Saint-Pierre,,Hôtel - Restaurant,./0.png
+-33.235399509121,-85.5266106451771,,Relais des Cimes,55.518605999999998,-21.066209000000001,Qualité Tourisme,,Salazie,,Hôtel - Restaurant,./0.png
+-33.2354034114415,-85.52660821192,,Akoya Hôtel & Spa,55.246263999999996,-21.101417000000001,Qualité Tourisme,,Saint-Gilles,,Hôtel - Restaurant,./0.png
+-33.2354076498068,-85.5266102883535,,Le Cilaos,55.478940999999999,-21.137478999999999,Qualité Tourisme,,Cilaos,,Hôtel - Restaurant,./0.png
+-33.2354036213983,-85.526608215996,,Choka,55.246727999999997,-21.103249000000002,Qualité Tourisme,,Saint-Pierre,,Restaurant,./0.png
+-33.2353910958225,-85.5266085768544,,La Terranga,55.286687000000001,-20.993677000000002,Qualité Tourisme,,Saint-Paul,,Restaurant,./0.png
+-33.2354025061008,-85.5266081409321,,Le Swalibo,55.238281999999998,-21.093541999999999,Qualité Tourisme,,Saline les Bains,,Hôtel - Restaurant,./0.png
+-33.2354221286135,-85.5266089949275,,Hôtel Floralys,55.334620999999999,-21.264541999999999,Qualité Tourisme,,Etang Salé,,Hôtel - Restaurant,./0.png
+-33.2353860389711,-85.5266090678951,,Roche Tamarin Lodges & Spa,55.341493000000000,-20.949280999999999,Qualité Tourisme,,La Possession,,Hôtel - Restaurant,./0.png
+-33.2354024431882,-85.5266080964811,,Le Copacabana,55.233302000000002,-21.093012999999999,Qualité Tourisme,,Saline les Bains,,Restaurant,./0.png
+-33.2353984627068,-85.5266080991269,,Tama Hôtel,55.233454999999999,-21.058243999999998,Qualité Tourisme,,Saint-Paul,,Hôtel,./0.png
+-33.2354075499885,-85.5266102279655,,Le Vieux Cep,55.472175000000000,-21.136634999999998,Qualité Tourisme,,Cilaos,,Hôtel - Restaurant,./0.png
+-33.2353987591027,-85.5266080663837,,Le Kerveguen,55.229799000000000,-21.060848000000000,Qualité Tourisme,,Saint-Paul,,Hôtel,./0.png
+-33.2353779552877,-85.5266100681037,,La Fabrique,55.453207999999997,-20.878212000000001,Qualité Tourisme,,Saint-Denis,,Restaurant,./0.png
+-33.2354324796041,-85.5266130170019,,La Marmite du Pêcheur,55.785395999999999,-21.353097000000002,Qualité Tourisme,,Saint-Philipe,,Restaurant,./0.png
+-33.2353976834044,-85.526608034403,,Le Piccolo,55.226179000000002,-21.051466999999999,Qualité Tourisme,,Saint-Gilles,,Restaurant,./0.png
+-33.2354011713502,-85.5266080619113,,Les Bougainvilliers,55.229385000000001,-21.081920000000000,Qualité Tourisme,,Saline les Bains,,Hôtel,./0.png
+-33.2353779242009,-85.5266100431187,,Central Hôtel,55.450409000000001,-20.877952000000001,Qualité Tourisme,,Saint-Denis,,Hôtel,./0.png
+-33.2354005147179,-85.5266080025417,,Ermitage Boutik Hôtel,55.222712999999999,-21.076212000000002,Qualité Tourisme,,Saline les Bains,,Hôtel - Restaurant,./0.png
+-33.2354328623571,-85.5266106233017,,Le Victoria Hôtel,55.517356999999997,-21.357544999999998,Qualité Tourisme,,Grand-Bois,,Hôtel - Restaurant,./0.png
+-33.2353999571797,-85.5266080050248,,Alamanda Hôtel,55.222971000000001,-21.071341000000000,Qualité Tourisme,,Saline les Bains,,Hôtel - Restaurant,./0.png
+-33.2354087836845,-85.5266084897365,,Iloha Seaview Hôtel,55.277568000000002,-21.148212999999998,Qualité Tourisme,,Saint-Leu,,Hôtel - Restaurant,./0.png
+-33.2354312340118,-85.5266102357292,,La Villa Delisle,55.473897000000001,-21.343501000000000,Qualité Tourisme,,Saint-Pierre,,Hôtel - Restaurant,./0.png
+-33.2354061184952,-85.5266123092846,,Diana Déa Lodge,55.705195000000003,-21.123170999999999,Qualité Tourisme,,Saint-Benoit,,Hôtel - Restaurant,./0.png
+-33.2354074963881,-85.5266102037468,,Le Tsilaosa,55.469461000000003,-21.136178000000001,Qualité Tourisme,,Cilaos,,Hôtel,./0.png
+-33.2354128826738,-85.5266086130097,,Blue Margouillat Seaview Hôtel,55.291519999999998,-21.183959000000002,Qualité Tourisme,,Saint-Leu,,Hôtel - Restaurant,./0.png
+-33.2353953007765,-85.5266080274177,,Le Saint Alexis Hôtel amp Spa,55.225310999999998,-21.030659000000000,Qualité Tourisme,,Boucan Canot,,Hôtel - Restaurant,./0.png
+-33.2353805686882,-85.5266101979358,,Le Mercure Créolia,55.467841000000000,-20.900979000000000,Qualité Tourisme,,Saint-Denis,,Hôtel - Restaurant,./0.png
+-33.2353948961246,-85.5266080394246,,Le Boucan Canot,55.226641000000001,-21.027118999999999,Qualité Tourisme,,Saint-Paul,,Hôtel - Restaurant,./0.png
+-33.2353994168094,-85.5266080074042,,Hôtel Résidence Les Créoles,55.223218000000003,-21.066620000000000,Qualité Tourisme,,Saint-Paul,,Hôtel,./0.png
+-33.23537996515,-85.526610012342,,Hôtel Bellepierre,55.447035999999997,-20.895793000000001,Qualité Tourisme,,Saint-Denis,,Hôtel - Restaurant,./0.png
+-33.2354018731327,-85.5266080657399,,Lux ile de La Réunion,55.229838999999998,-21.088048000000001,Qualité Tourisme,,Saline les Bains,,Hôtel - Restaurant,./0.png
+-33.2354339482859,-85.5266109203649,,Palm Hôtel & Spa,55.550662000000003,-21.366893000000001,Qualité Tourisme,,Petite île,,Hôtel - Restaurant,./0.png
+-33.2354072518304,-85.5266102533599,,Hôtel des Neiges,55.475008000000003,-21.134018999999999,Qualité Tourisme,,Cilaos,,Hôtel - Restaurant,./0.png
+-33.2354238250793,-85.5266095558623,,Sucrerie du Gol,55.397497000000001,-21.279101000000001,Qualité Tourisme,,Saint-Louis,,Visite d'entreprises,./0.png
+-33.2354067192396,-85.5266102426366,,Etablissement Thermal Irénée Accot,55.473787999999999,-21.129372000000000,Qualité Tourisme,,Cilaos,,Etablissement de loisir,./0.png
+-33.2353839055827,-85.5266117762246,,Distillerie de Savanna,55.644702000000002,-20.929397000000002,Qualité Tourisme,,Saint Andre,,Lieu de visite,./0.png
+-33.2354087541649,-85.5266084727434,,Parapente Nature,55.275663999999999,-21.147963000000001,Qualité Tourisme,,Trois-Bassins,,Etablissement de loisir,./0.png
+-33.2354270471769,-85.5266097890324,,Domaine du Café Grillé,55.423724000000000,-21.307137000000001,Qualité Tourisme,,Saint-Pierre,,Lieu de visite,./0.png
+-33.2354107132626,-85.5266085851312,,Bourbon parapente Concept,55.288319999999999,-21.165023000000001,Qualité Tourisme,,Saint-Leu,,Sport de nautre,./0.png
+-33.2353908070404,-85.5266089465672,,Agil Rando Run,55.328077999999998,-20.990984000000001,Qualité Tourisme,,Saint-Paul,,Sport de nautre,./0.png
+-33.2353975877985,-85.5266085412982,,Côté Cannelle,55.282938999999999,-21.050398000000001,Qualité Tourisme,,Saint-Paul,,"Chambre d'hôtes, Gîte",./0.png
+-33.2354082719184,-85.5266084766133,,Addict Parapente,55.276080000000000,-21.143749000000000,Qualité Tourisme,,Saint-Leu,,Sport de nautre,./0.png
+-33.235397879678,-85.5266080373583,,Corail Plongée,55.226517000000001,-21.053180000000001,Qualité Tourisme,,Trois-Bassins,,Sport de nautre,./0.png
+-33.2354103938368,-85.5266085871984,,Black Air Parapente,55.288539999999998,-21.162231999999999,Qualité Tourisme,,Saint-Leu,,Sport de nautre,./0.png
+-33.2354029577715,-85.5266082365964,,Plateforme ULM de la Saline Les Bains,55.249011000000003,-21.097442999999998,Qualité Tourisme,,Trois-Bassins,,Sport de nautre,./0.png

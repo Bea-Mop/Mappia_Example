@@ -1,0 +1,44 @@
+X,Y,duree_minut,type,type_rando_,classificat,id,nom,difficulte,distance_pa,denivele_mi,denivele_ma,altitude_mi,altitude_ma,source_kml,is_ouvert,zone_transl,icon_url
+-33.2353974832369,-85.5266100726589,1800,circuit,pied,,144,Canalisation Augustave-AurÃ¨re,"4",6.0100000000,8466,2177,9144,15455,canalisation-augustave-aurere.kml,Oui,Cirque de Mafate,./0.png
+-33.2353898054167,-85.526609376179,1055,circuit,pied,,199,Dos d'Ane - Deux-Bras,"5",4.4700000000,8977,2400,2688,9322,dos-d-ane-deux-bras.kml,Oui,Cirque de Mafate,./0.png
+-33.2353999697457,-85.5266106632819,1200,circuit,pied,,411,Hell bourg - Source Manouilh,"3",3.9000000000,1588,4677,10033,13344,hell-bourg-source-manouilh.kml,Oui,Cirque de Salazie,./0.png
+-33.2353988603797,-85.5266108066785,2400,circuit,pied,,88,GÃ®te de BÃ©louve-Trou de Fer,"2",8.5800000000,2700,2700,13155,15055,gite-de-belouve-trou-de-fer.kml,Oui,Cirque de Salazie,./0.png
+0,0,2755,circuit,pied,"GR R3;GR R3;GR R3;GR R1;GR R3;GR R1;GR R3;GR R1;GR R1;GR R1;GR R1;GR R1;GR R1;GR R1;GR R1;GR R1;GR R1;GR R1;GR R3;GR R1;GR R3;GR R3;GR R3",99,Col des Boeufs - La Nouvelle,"2",11.4000000000,6344,6188,14400,18411,col-des-boeufs-la-nouvelle.kml,Oui,Cirque de Mafate,./0.png
+-33.2354177908656,-85.5266121251205,3155,circuit,pied,,100,Piton de la Fournaise (Pas de Bellecombe-CratÃ¨re Dolomieu),"4",11.0000000000,4888,4888,23555,24788,piton-de-la-fournaise-pas-de-bellecombe-cratere-dolomieu.kml,Oui,Plaines et volcan,./0.png
+-33.2354006228207,-85.5266098037331,2655,circuit,pied,,211,La Nouvelle - Trois Roches - Roche Plate,"4",8.0200000000,7244,3822,5033,14288,la-nouvelle-trois-roches-roche-plate.kml,Oui,Cirque de Mafate,./0.png
+-33.2354001641319,-85.5266105676778,900,circuit,pied,,422,Ilet Ã  Vidot- Source Manouilh,"2",2.8700000000,1599,4100,10744,14688,ilet-a-vidot-source-manouilh.kml,Oui,Cirque de Salazie,./0.png
+0,0,3500,circuit,pied,"GR R3;GR R3;GR R2;GR R3;GR R2;GR R3;GR R2;GR R3;GR R2;GR R3;GR R2;GR R3;GR R2;GR R3;GR R3;GR R3",22,Ilet Ã  Malheur par Sentier Scout,"3",14.3600000000,9477,9555,9000,16477,ilet-a-malheur-par-sentier-scout.kml,Oui,Cirque de Mafate,./0.png
+0,0,2755,circuit,pied,,155,Cascade Bras-Rouge,"3",11.2800000000,7100,7111,9288,11933,cascade-bras-rouge.kml,Oui,Cirque de Cilaos,./0.png
+-33.2354053770529,-85.526610031562,3600,circuit,pied,"GR R1;GR R2;GR R1;GR R2;GR R2;GR R1;GR R2;GR R1;GR R2;GR R1;GR R2;GR R1;GR R2;GR R1;GR R2;GR R1;GR R2;GR R1;GR R2;GR R1",77,Cilaos - Marla,"4",11.4700000000,11755,11611,12599,16211,cilaos-marla.kml,Oui,Cirque de Mafate,./0.png
+-33.2353936148211,-85.5266101335009,2700,circuit,pied,,244,Roche Ecrite - Grand-Ilet,"4",4.1400000000,12555,1500,11388,22400,roche-ecrite-grand-ilet.kml,Oui,Cirque de Salazie,./0.png
+-33.2353801468389,-85.5266100859646,1200,circuit,pied,,266,La Providence,"3",5.2800000000,355,7744,622,8122,la-providence.kml,Oui,Nord,./0.png
+-33.2354138431777,-85.5266123779553,3600,circuit,pied,,400,Grand Ilet - Hell Bourg,"4",9.8900000000,8500,5766,6999,12300,grand-ilet-hell-bourg.kml,Oui,Cirque de Salazie,./0.png
+-33.2354041649799,-85.5266116395227,6600,circuit,"pied;cheval","PR;Sentier botanique",122,Grand etang (saisi par melanie),"4",7.4000000000,0,0,0,0,grand-etang-saisi-par-melanie.kml,Oui,Est,./0.png
+-33.2354131112716,-85.5266098777576,3000,circuit,pied,,300,Les Makes,"2",4.7800000000,4599,2988,12100,15499,les-makes.kml,Oui,Sud,./0.png
+0,0,3200,circuit,pied,,322,MaÃ¯do - Roche-Plate,"3",10.0300000000,9911,9899,10800,20188,maido-roche-plate.kml,Oui,Cirque de Mafate,./0.png
+0,0,2700,circuit,pied,,344,Gite de Belouve - Gite du Piton des Neiges,"4",8.4800000000,411,10100,15077,24799,gite-de-belouve-gite-du-piton-des-neiges.kml,Oui,Piton des Neiges,./0.png
+0,0,4800,circuit,pied,,44,Le Chemin des Anglais (La Possession),"3",18.7900000000,10200,9766,633,4177,le-chemin-des-anglais-la-possession.kml,Oui,Ouest,./0.png
+0,0,2800,circuit,pied,,66,Grand Bassin,"3",9.9700000000,9977,9955,6277,13588,grand-bassin.kml,Oui,Sud,./0.png
+-33.2353996625947,-85.5266095780335,1855,circuit,pied,,200,Roche Plate - Cayenne,"4",7.1500000000,8233,2688,5177,11733,roche-plate-cayenne.kml,Oui,Cirque de Mafate,./0.png
+-33.2353999188783,-85.5266106647895,2355,circuit,pied,,355,Hell Bourg - Cap Anglais - Gite du Piton Des Neiges,"5",6.7900000000,0,14477,10033,24799,hell-bourg-cap-anglais-gite-du-piton-des-neiges.kml,Oui,Piton des Neiges,./0.png
+-33.2354188977979,-85.5266101221232,4500,circuit,pied,,388,Dimitile par sentier Bayonne,"5",9.8400000000,2311,14655,5022,17955,dimitile-par-sentier-bayonne.kml,Oui,Sud,./0.png
+-33.2353994251015,-85.5266107017933,1200,circuit,pied,,433,Hell Bourg - BÃ©louve,"3",3.1600000000,5722,466,9811,15111,hell-bourg-belouve.kml,Oui,Cirque de Salazie,./0.png
+0,0,4400,circuit,pied,"GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2;GR R2",11,La Roche Ecrite depuis Mamode Camp,"4",18.5400000000,10288,10188,12022,22700,la-roche-ecrite-depuis-mamode-camp.kml,Oui,Nord,./0.png
+-33.235389458009,-85.5266091173219,5000,circuit,pied,"GR R3;GR R2;GR R3;GR R2",133,Canalisation des Orangers,"3",27.7500000000,16411,15977,5322,10222,canalisation-des-orangers.kml,Oui,Cirque de Mafate,./0.png
+-33.235403069451,-85.5266118476214,2700,circuit,pied,,166,Grand Etang,"2",8.0300000000,5822,5822,5244,7888,grand-etang.kml,Oui,Plaines et volcan,./0.png
+-33.2354169044171,-85.5266121365232,1655,circuit,pied,,399,CassÃ© de la riviÃ¨re de l'Est,"3",7.7400000000,5155,0,17199,22455,casse-de-la-riviere-de-l-est.kml,Oui,Plaines et volcan,./0.png
+-33.235392681821,-85.5266101284161,1866,circuit,"pied;VTT",GR R2,111,Roche Ã©crite (saisi par melanie),"2",0.0000000000,0,0,0,0,roche-ecrite-saisi-par-melanie.kml,Oui,Nord,./0.png
+0,0,1400,circuit,pied,"GR R3;GR R3;GR R3;GR R1;GR R3;GR R1;GR R3;GR R2;GR R1",177,Col des BÅ“ufs - Marla,"2",7.2200000000,5444,3233,14822,19622,col-des-boeufs-marla.kml,Oui,Cirque de Mafate,./0.png
+-33.2354327294935,-85.5266126089743,900,circuit,pied,Sentier botanique,233,Foret de Mare Longue,"1",1.9000000000,1022,1122,2044,3022,foret-de-mare-longue.kml,Oui,Sud,./0.png
+-33.2353845411533,-85.5266101930512,2400,circuit,pied,,222,Pic d'Adam,"3",6.4900000000,6466,6644,7144,12244,pic-d-adam.kml,Oui,Nord,./0.png
+-33.2353984798013,-85.5266104920734,1800,circuit,pied,,255,Piton d'Anchaing,"3",3.8500000000,1611,7166,7544,13366,piton-d-anchaing.kml,Oui,Cirque de Salazie,./0.png
+0,0,3255,circuit,pied,,299,Aurere - Deux-Bras,"3",12.8800000000,7299,7133,2666,9477,aurere-deux-bras.kml,Oui,Cirque de Mafate,./0.png
+0,0,3600,circuit,pied,,55,MaÃ¯do-Grand BÃ©nare,"4",15.4200000000,7644,7466,21733,28788,maido-grand-benare.kml,Oui,Ouest,./0.png
+-33.2354060543974,-85.5266103269169,3600,circuit,pied,,333,Cilaos - Piton Des Neiges,"5",7.3200000000,422,15966,13922,30700,cilaos-piton-des-neiges.kml,Oui,Piton des Neiges,./0.png
+-33.2353906075051,-85.5266094712931,1200,circuit,pied,,277,Dos d'Ane - Cap Noir,"3",2.8600000000,4699,4711,9022,11922,dos-d-ane-cap-noir.kml,Oui,Ouest,./0.png
+-33.2354178424985,-85.5266121272649,1355,circuit,pied,,366,Pas de Bellecombe - Nez CoupÃ© de Sainte-Rose,"3",4.8500000000,4400,1077,20155,23288,pas-de-bellecombe-nez-coupe-de-sainte-rose.kml,Oui,Plaines et volcan,./0.png
+0,0,3000,circuit,pied,,188,Deux Bras - Cayenne,"2",12.7400000000,7555,7544,2522,5744,deux-bras-cayenne.kml,Oui,Cirque de Mafate,./0.png
+-33.2353943449817,-85.5266092680961,1800,circuit,pied,,288,Ilet-Alcide,"2",7.1000000000,4155,4155,13322,15533,ilet-alcide.kml,Oui,Ouest,./0.png
+0,0,4200,circuit,pied,,33,Nez de Boeuf-Roche Plate (riviÃ¨re des remparts),"4",15.2300000000,12922,12966,7555,20444,nez-de-boeuf-roche-plate-riviere-des-remparts.kml,Oui,Sud,./0.png
+-33.235400590924,-85.5266121144951,1055,circuit,pied,,311,Les Ravenales,"2",2.2800000000,1333,1788,2722,3744,les-ravenales.kml,Oui,Est,./0.png
+-33.2354053807981,-85.5266100309357,3000,circuit,pied,,377,Cap Bouteille,"4",3.8900000000,433,7022,12566,19155,cap-bouteille.kml,Oui,Cirque de Cilaos,./0.png

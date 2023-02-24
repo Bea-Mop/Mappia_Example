@@ -1,0 +1,29 @@
+X,Y,Id,Commune,Nom,Lieu,Jour,Heure,Produit,Type,Ouverture,icon_url
+-33.2353919113989,-85.5266121241667,"1",Bras-Panon,Marché forain de Bras-Panon,parking du complexe sportif Paul Moreau,Jeudi,6h - 12h,"Fruit, légume, confiture, fromage, produits de la ferme",marché forain,En semaine,./0.png
+-33.2353782280515,-85.5266100972768,"2",Saint-Denis,Petit marché,Petit marché,Lundi au Dimanche,Lundi au samedi 6h - 18h Dimanche 6h - 12h,"Fruit, légume, épice, viande, poisson, charcuterie, fleur",marché couvert,En semaine et week-end,./0.png
+-33.235379470013,-85.526610376044,"3",Saint-Denis,Le chaudron,"Chaudron, place de Nelson Mandela",Mercredi et Dimanche,6h - 12h,"Fruit, légume, épice",marché forain,En semaine et week-end,./0.png
+-33.2353792607918,-85.5266100271262,"4",Saint-Denis,La Source,"Boulevard Jean Jaurès, école Gabriel Macé",Jeudi,6h - 12h,"Fruit, légume ?",marché forain,En semaine,./0.png
+-33.235379342331,-85.5266101506588,"5",Saint-Denis,Les Camélias,"Les rampes du quartier Saint-Francois, Boulevard Jean Jaurès",Vendredi,6h - 12h,"Fruit, légume, produits frais",marché forain,En semaine,./0.png
+-33.2353800675095,-85.5266109222522,"6",Sainte-Marie,Marché forain place verte,Derriére la Mairie de Sainte-Marie,Samedi,6h - 12h,"Fruit, légume, viande",marché forain,Week-end,./0.png
+-33.2353844438926,-85.5266086224163,"7",Le Port,Marché forain Le Port,Place des cheminots,Mercredi,4h - 12h30,"Fruit, légume, viande",marché forain,En semaine,./0.png
+-33.2353849809574,-85.5266086963994,"8",Le Port,Marché forain Le Port,Quartier de l'oasis,Vendredi,4h - 12h30,"Fruit, légume, viande",marché forain,En semaine,./0.png
+-33.2353926852072,-85.5266084509293,"9",Saint-Paul,Marché couvert,Centre-ville de Saint-Paul,Lundi au Samedi,8h - 18h,"Fruit, légume, épice",marché couvert,En semaine et week-end,./0.png
+-33.2353924982499,-85.5266084460434,"10",Saint-Paul,Grand marché du front de mer,Front de mer de Saint-Paul,Vendredi et Samedi,Vendredi 6h - 17h30 Samedi 6h - 13h,"Fruit, légume, épice, volaille",marché forain,En semaine et week-end,./0.png
+-33.2353978243882,-85.5266080327238,"11",Saint-Paul,Le petit marché forain,"Centre-ville, la place du marché de Saint-Gilles",Mercredi,5h - 12h,"Fruit, légume, épice et gateaux péi",marché forain,En semaine,./0.png
+-33.2354002386486,-85.5266080086369,"12",Saint-Paul,Ermitage-les-Bains – Mail de Rodrigues,"sur le mail de Rodrigues à l'Hermitage, à proximité immediate du lagon, en face de Carrefour",Dimanche,7h - 12h,"Fruit, légume, produits locaux, cuisine marocaine, thailandaise et mauricienne",marché forain,Week-end,./0.png
+-33.23543067247,-85.5266100939153,"13",Saint-Pierre,Marché forain du front de mer,Front de mer de Saint-Pierre,Samedi,5h - 12h,"Fruit, légume, volaille, poisson, fromage, vienoisserie, gateau péi",marché forain,Week-end,./0.png
+-33.2354309404263,-85.5266102336348,"14",Saint-Pierre,Marché couvert,Ruelle du vieux gouvernement,Lundi au Samedi,8h - 18h,"Epice, vanille, miel",marché couvert,En semaine et week-end,./0.png
+-33.2354108469563,-85.526608576972,"15",Saint-Leu,Marché forain de Saint-Leu,Place de la mairie,Samedi,6h - 13h,"Fruit, légume",marché forain,Week-end,./0.png
+-33.2354221357149,-85.5266099194062,"16",Saint-Louis,Petit marché forain de la Riviére,parvis de l'église de La Rivière Saint-Louis,Mercredi,8h - 12h,"Fruit, légume, beignet, tisane et sirop péi",marché forain,En semaine,./0.png
+-33.2354236526645,-85.5266106141868,"17",Le Tampon,Marché forain du Tampon,Rue du stade,Samedi,6h - 13h,"Fruit, légume",marché forain,Week-end,./0.png
+-33.2354239838493,-85.5266105872853,"18",Le Tampon,Marché couvert du Tampon,Rue Fréjaville,Lundi au Dimanche,Lundi au samedi 5h-19h Dimanche 4h30-12h,"Fruit et legume, viande, poissons, vin",marché couvert,En semaine et week-end,./0.png
+-33.2354353502116,-85.5266115372743,"19",Saint-Joseph,Marché forain du Sud Sauvage,Place de la salle des fêtes du 23éme,Vendredi,8h - 14h,"Fruit, légume, produits locaux",marché forain,En semaine,./0.png
+-33.2354074329734,-85.526610204538,"20",Cilaos,Marché couvert,Rue du marche,Lundi au Dimanche,8h - 20h,"Fruit, légume, plats traditionnels",marché couvert,En semaine et week-end,./0.png
+-33.2354073481793,-85.5266116103501,"21",Plaine des palmistes,Marché forain de la Plaine des palmistes,"Place du marché, rue du commerce",Dimanche,6h - 12h,"Fruit, légume, plante, fleur, produits locaux, plats traditionnels",marché forain,Week-end,./0.png
+-33.2353960937705,-85.5266124030008,"22",Saint-Benoît,Marché forain de Saint-Benoît,"Parking de la Savane, stade de l'ilet",Samedi,5h - 12h,"Fruit, légume, produits du terroir",marché forain,Week-end,./0.png
+-33.2353959111816,-85.5266123916546,"23",Saint-Benoît,Marché couvert,Place Edmond Albius,Lundi au Samedi,7h - 18h,"Fruit, légume, viande",marché couvert,En semaine et week-end,./0.png
+-33.2353877659261,-85.5266118429587,"24",Saint-André,Marché forain de Saint-André,Parking de la salle des fêtes,Vendredi,4h - 12h,"Fruit, légume, produit locaux",marché forain,En semaine,./0.png
+-33.2353773150066,-85.5266100317212,"25",Saint-Denis,Marché nocture du Barachois,Barachois,1er Samedi du mois,21h - 2h,"Produits locaux, épices",marché forain nocturne,Week-end,./0.png
+-33.2353811213738,-85.5266114544173,"26",Sainte Suzanne,Marché forain de Sainte-suzanne,"Front de mer, derriére la mairie",Mardi,5h - 12h,"Fruit, légume, sacs de vacoas",marché forain,En semaine,./0.png
+-33.2354218352,-85.5266089806889,"27",Etang-Salé-Les-Bains,Marché forain de l'Etang-Salé-Les-Bains,En face du camping,Dimanche,6h - 13h,"Fruit, légume, sarcives, samoussas, rhum arrangé, vanille",marché forain,Week-end,./0.png
+-33.2354037155688,-85.5266086373788,"28",Trois-Bassin,Marché forain de Trois-Bassin,Rue de François de Mahy,Samedi,8h - 13h,"Fruit, légume",marché forain,Week-end,./0.png
